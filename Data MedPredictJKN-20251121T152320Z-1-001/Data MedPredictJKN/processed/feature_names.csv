@@ -1,0 +1,19 @@
+feature
+ID
+Age
+Gender
+Weight (kg)
+Height (cm)
+BMI
+age
+gender
+diagnoses
+medications
+lab_results
+annual_visits
+age_group
+is_senior
+gender_encoded
+ID_encoded
+Gender_encoded
+age_gender_interaction

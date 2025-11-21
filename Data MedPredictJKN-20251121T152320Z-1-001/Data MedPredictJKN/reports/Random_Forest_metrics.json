@@ -1,0 +1,20 @@
+{
+    "auc_roc": 1.0,
+    "auc_pr": 1.0,
+    "precision": 0.9864864864864865,
+    "recall": 1.0,
+    "f1": 0.9931972789115646,
+    "brier_score": 0.007318169613283138,
+    "precision_at_5pct": 1.0,
+    "precision_at_10pct": 1.0,
+    "confusion_matrix": {
+        "tn": 72,
+        "fp": 1,
+        "fn": 0,
+        "tp": 73
+    },
+    "sensitivity": 1.0,
+    "specificity": 0.9863013698630136,
+    "ppv": 0.9864864864864865,
+    "npv": 1.0
+}

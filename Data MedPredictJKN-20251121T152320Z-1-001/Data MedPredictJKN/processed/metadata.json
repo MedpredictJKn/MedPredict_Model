@@ -1,0 +1,9 @@
+{
+    "total_patients": 970,
+    "total_features": 18,
+    "train_size": 679,
+    "val_size": 145,
+    "test_size": 146,
+    "target_type": "int64",
+    "creation_date": "2025-11-20 03:21:22"
+}

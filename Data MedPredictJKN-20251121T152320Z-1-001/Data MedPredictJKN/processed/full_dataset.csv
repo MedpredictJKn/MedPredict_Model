@@ -1,0 +1,971 @@
+ID,Age,Gender,Weight (kg),Height (cm),BMI,patient_id,age,gender,diagnoses,medications,lab_results,annual_visits,ID_original,age_group,is_senior,gender_encoded,ID_encoded,Gender_encoded,age_gender_interaction,target
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,31,20,M,I10-I15,Beta-blocker;None;Insulin,Glucose:97.6;Cholesterol:201.4;HbA1c:6.8,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,32,68,M,I10-I15,Beta-blocker,Glucose:139.1;Cholesterol:187.6;HbA1c:5.6,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,33,24,M,E66,ACE Inhibitor;Amlodipine,Glucose:114.8;Cholesterol:144.0;HbA1c:5.6,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,34,38,F,E66,Insulin;ACE Inhibitor;Beta-blocker,Glucose:128.6;Cholesterol:215.7;HbA1c:5.5,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,35,56,M,E66,Atorvastatin;Beta-blocker;ACE Inhibitor,Glucose:115.4;Cholesterol:157.0;HbA1c:6.5,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,36,35,M,E10-E14,Beta-blocker,Glucose:108.1;Cholesterol:179.0;HbA1c:5.4,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,37,21,F,E10-E14;I10-I15,Beta-blocker;Atorvastatin,Glucose:108.4;Cholesterol:172.1;HbA1c:6.5,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,38,77,M,I10-I15,Beta-blocker;Insulin;None,Glucose:100.1;Cholesterol:253.7;HbA1c:7.3,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,39,31,F,I10-I15,Atorvastatin;Metformin,Glucose:87.7;Cholesterol:192.8;HbA1c:5.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,40,26,F,E10-E14;I10-I15,None;Amlodipine,Glucose:101.8;Cholesterol:270.1;HbA1c:5.5,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,41,70,F,E10-E14;I10-I15;I20-I25,Amlodipine,Glucose:119.0;Cholesterol:211.7;HbA1c:4.8,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,42,19,F,E10-E14;I10-I15,Metformin,Glucose:88.6;Cholesterol:141.8;HbA1c:4.9,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,43,77,F,E10-E14;I20-I25,Amlodipine;Insulin,Glucose:38.7;Cholesterol:211.8;HbA1c:7.9,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,44,61,F,E10-E14,Insulin;Metformin;None,Glucose:113.7;Cholesterol:133.3;HbA1c:5.2,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,45,25,F,I10-I15,None;Atorvastatin,Glucose:98.5;Cholesterol:149.3;HbA1c:6.7,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,46,64,F,I10-I15,Atorvastatin;Insulin,Glucose:130.3;Cholesterol:143.8;HbA1c:6.5,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,47,52,M,I10-I15,Insulin,Glucose:148.2;Cholesterol:266.1;HbA1c:8.7,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,48,53,M,E10-E14,Amlodipine;Atorvastatin,Glucose:87.5;Cholesterol:303.0;HbA1c:5.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,49,67,M,E10-E14,Insulin,Glucose:95.2;Cholesterol:203.1;HbA1c:5.2,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,50,21,M,E66,Amlodipine,Glucose:120.0;Cholesterol:137.2;HbA1c:5.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,51,19,F,I10-I15,Beta-blocker,Glucose:142.1;Cholesterol:187.7;HbA1c:5.9,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,52,23,M,I10-I15,None;Insulin,Glucose:121.9;Cholesterol:236.8;HbA1c:4.1,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,53,71,F,E10-E14;I20-I25,Atorvastatin;Beta-blocker;ACE Inhibitor,Glucose:124.6;Cholesterol:179.3;HbA1c:6.0,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,54,21,M,I20-I25,Atorvastatin;Insulin;Metformin,Glucose:136.5;Cholesterol:142.2;HbA1c:4.8,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,55,71,M,E10-E14;I10-I15;I20-I25,Atorvastatin;Metformin,Glucose:61.6;Cholesterol:168.0;HbA1c:7.1,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,56,80,M,I10-I15,Amlodipine;None;Atorvastatin,Glucose:107.0;Cholesterol:136.4;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,57,35,F,I10-I15,ACE Inhibitor,Glucose:72.8;Cholesterol:145.0;HbA1c:6.2,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,58,61,M,I10-I15,None;Beta-blocker;Amlodipine,Glucose:80.7;Cholesterol:234.5;HbA1c:5.7,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,59,51,F,E10-E14,ACE Inhibitor,Glucose:112.1;Cholesterol:178.9;HbA1c:6.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,60,79,F,I10-I15,Beta-blocker;Insulin;None,Glucose:129.6;Cholesterol:203.4;HbA1c:6.4,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,61,31,M,E10-E14;I20-I25,Amlodipine;ACE Inhibitor,Glucose:104.7;Cholesterol:211.7;HbA1c:5.5,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,62,65,M,I10-I15,Insulin;Beta-blocker,Glucose:110.1;Cholesterol:179.0;HbA1c:5.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,63,32,M,E10-E14,Amlodipine;Metformin,Glucose:92.8;Cholesterol:208.7;HbA1c:7.1,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,64,79,F,I20-I25,ACE Inhibitor;Insulin,Glucose:139.3;Cholesterol:139.7;HbA1c:7.1,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,65,57,M,I10-I15;E66,Atorvastatin;Amlodipine,Glucose:102.0;Cholesterol:214.0;HbA1c:4.9,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,66,70,F,E10-E14;I10-I15,Amlodipine;Beta-blocker;Atorvastatin,Glucose:113.5;Cholesterol:202.5;HbA1c:4.3,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,67,41,F,I10-I15,ACE Inhibitor;Amlodipine,Glucose:125.2;Cholesterol:243.8;HbA1c:5.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,68,43,M,I10-I15;E66,Atorvastatin;Amlodipine;ACE Inhibitor,Glucose:144.0;Cholesterol:182.4;HbA1c:6.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,69,77,M,I20-I25;E66,Beta-blocker;Insulin,Glucose:54.5;Cholesterol:286.8;HbA1c:7.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,70,58,F,I20-I25,Atorvastatin;None;Insulin,Glucose:102.9;Cholesterol:111.1;HbA1c:6.1,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,71,46,F,E10-E14;E66,Insulin;None;Amlodipine,Glucose:73.9;Cholesterol:207.8;HbA1c:6.2,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,72,32,F,E10-E14;I10-I15;E66,Insulin;Beta-blocker,Glucose:86.5;Cholesterol:234.8;HbA1c:6.6,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,73,62,M,I10-I15,Beta-blocker;Metformin,Glucose:134.4;Cholesterol:190.4;HbA1c:4.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,74,82,F,I10-I15,ACE Inhibitor;None;Metformin,Glucose:134.4;Cholesterol:179.2;HbA1c:4.4,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,75,26,M,I20-I25,Beta-blocker;Amlodipine,Glucose:143.8;Cholesterol:274.0;HbA1c:5.8,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,76,18,F,I10-I15,ACE Inhibitor;None,Glucose:164.0;Cholesterol:193.7;HbA1c:5.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,77,25,F,E66,Atorvastatin,Glucose:94.2;Cholesterol:255.5;HbA1c:5.0,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,78,80,M,I20-I25,Atorvastatin;None,Glucose:128.4;Cholesterol:167.6;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,79,28,F,I10-I15;E66,Insulin;None;Metformin,Glucose:135.8;Cholesterol:174.8;HbA1c:5.4,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,80,25,M,E10-E14;I10-I15,Beta-blocker;None,Glucose:138.3;Cholesterol:253.9;HbA1c:6.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,81,52,M,I20-I25,Metformin;Beta-blocker;Insulin,Glucose:93.6;Cholesterol:169.6;HbA1c:5.9,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,82,52,F,I20-I25,Metformin;Insulin,Glucose:118.0;Cholesterol:150.5;HbA1c:6.5,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,83,50,M,E10-E14;I10-I15,ACE Inhibitor;Amlodipine,Glucose:112.1;Cholesterol:121.4;HbA1c:4.9,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,84,22,M,I10-I15,Metformin,Glucose:97.4;Cholesterol:187.1;HbA1c:7.7,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,85,58,F,I10-I15,Insulin,Glucose:116.0;Cholesterol:156.4;HbA1c:6.0,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,86,45,M,I10-I15,Beta-blocker,Glucose:101.2;Cholesterol:203.0;HbA1c:6.4,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,87,24,M,E10-E14,ACE Inhibitor;Atorvastatin,Glucose:140.2;Cholesterol:189.0;HbA1c:7.4,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,88,29,M,I10-I15,Amlodipine;None;Beta-blocker,Glucose:132.7;Cholesterol:161.7;HbA1c:8.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,89,51,F,E10-E14;I20-I25,Atorvastatin;Insulin;Beta-blocker,Glucose:118.2;Cholesterol:156.6;HbA1c:7.5,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,90,50,M,I20-I25;E66,Atorvastatin;None;Beta-blocker,Glucose:161.9;Cholesterol:188.7;HbA1c:5.3,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,91,65,F,I10-I15;I20-I25;E66,Beta-blocker;Metformin,Glucose:105.7;Cholesterol:218.6;HbA1c:7.1,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,92,40,F,I10-I15,Insulin,Glucose:124.3;Cholesterol:194.1;HbA1c:7.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,93,79,M,E66,Insulin,Glucose:102.2;Cholesterol:231.2;HbA1c:5.5,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,94,54,M,E10-E14;I10-I15,Beta-blocker;ACE Inhibitor,Glucose:120.8;Cholesterol:185.5;HbA1c:5.7,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,95,61,M,E10-E14;I10-I15;I20-I25,Metformin;Atorvastatin,Glucose:100.6;Cholesterol:243.8;HbA1c:5.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,96,52,F,E10-E14,None;Metformin,Glucose:91.5;Cholesterol:274.8;HbA1c:6.8,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,97,82,M,E10-E14;I10-I15,None;Insulin,Glucose:50.4;Cholesterol:167.4;HbA1c:4.0,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,98,64,M,I20-I25,Beta-blocker,Glucose:86.2;Cholesterol:64.5;HbA1c:5.7,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,99,20,M,I10-I15,Insulin;Beta-blocker,Glucose:81.5;Cholesterol:192.4;HbA1c:4.2,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,100,18,M,I10-I15,Amlodipine,Glucose:112.1;Cholesterol:173.4;HbA1c:7.3,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,101,22,M,E10-E14;I10-I15;E66,Atorvastatin;ACE Inhibitor;Metformin,Glucose:145.3;Cholesterol:221.4;HbA1c:5.5,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,102,31,F,I10-I15,Atorvastatin,Glucose:159.6;Cholesterol:127.9;HbA1c:4.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,103,44,F,I10-I15;I20-I25;E66,Amlodipine,Glucose:107.9;Cholesterol:280.2;HbA1c:5.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,104,26,M,I10-I15,ACE Inhibitor;Atorvastatin,Glucose:105.4;Cholesterol:132.3;HbA1c:6.7,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,105,32,M,I10-I15,Atorvastatin,Glucose:133.8;Cholesterol:221.6;HbA1c:5.2,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,106,59,M,I10-I15,Atorvastatin;Metformin,Glucose:92.3;Cholesterol:138.3;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,107,68,M,I20-I25,Insulin,Glucose:83.0;Cholesterol:142.9;HbA1c:5.4,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,108,80,F,I20-I25;E66,Metformin;Beta-blocker,Glucose:97.8;Cholesterol:168.5;HbA1c:6.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,109,69,M,E10-E14;E66,ACE Inhibitor;None,Glucose:112.0;Cholesterol:178.5;HbA1c:6.0,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,110,21,F,I10-I15,Insulin;None,Glucose:85.2;Cholesterol:194.2;HbA1c:6.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,111,40,F,I10-I15,Metformin,Glucose:72.4;Cholesterol:229.8;HbA1c:4.9,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,112,32,M,I10-I15,Metformin;Insulin;Beta-blocker,Glucose:112.3;Cholesterol:236.6;HbA1c:6.7,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,113,60,F,E10-E14;I20-I25;E66,Insulin,Glucose:110.9;Cholesterol:175.5;HbA1c:6.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,114,46,F,I20-I25,Insulin,Glucose:126.9;Cholesterol:165.3;HbA1c:5.0,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,115,53,F,I10-I15,ACE Inhibitor;Atorvastatin;Metformin,Glucose:58.2;Cholesterol:196.2;HbA1c:5.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,116,30,F,I10-I15,Insulin;Metformin,Glucose:138.4;Cholesterol:204.4;HbA1c:7.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,117,49,M,I10-I15;E66,None;Metformin,Glucose:92.6;Cholesterol:235.5;HbA1c:5.3,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,118,76,M,I10-I15,Beta-blocker;ACE Inhibitor;None,Glucose:129.4;Cholesterol:131.6;HbA1c:6.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,119,45,F,I10-I15,Beta-blocker;Metformin;ACE Inhibitor,Glucose:60.4;Cholesterol:179.3;HbA1c:6.2,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,120,83,M,I10-I15,None;Atorvastatin;Beta-blocker,Glucose:97.0;Cholesterol:148.0;HbA1c:6.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,121,59,M,I10-I15,Atorvastatin;Insulin;Beta-blocker,Glucose:107.4;Cholesterol:170.4;HbA1c:5.8,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,122,62,M,I10-I15,Insulin,Glucose:175.9;Cholesterol:236.1;HbA1c:7.0,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,123,79,M,I10-I15,Amlodipine;Atorvastatin,Glucose:120.9;Cholesterol:196.7;HbA1c:3.4,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,124,74,M,I10-I15,Metformin;ACE Inhibitor;Beta-blocker,Glucose:93.0;Cholesterol:170.8;HbA1c:3.9,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,125,23,F,I10-I15,Amlodipine;Atorvastatin,Glucose:81.1;Cholesterol:110.8;HbA1c:5.8,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,126,45,M,E10-E14;E66,Insulin,Glucose:130.5;Cholesterol:234.3;HbA1c:6.2,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,127,45,M,E10-E14;I10-I15,Amlodipine;Metformin;Insulin,Glucose:85.9;Cholesterol:112.7;HbA1c:4.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,128,61,M,E66,Beta-blocker;ACE Inhibitor;Insulin,Glucose:78.3;Cholesterol:154.4;HbA1c:5.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,129,47,M,I20-I25;E66,ACE Inhibitor;Atorvastatin;Insulin,Glucose:84.6;Cholesterol:203.6;HbA1c:5.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,130,79,F,I10-I15,Atorvastatin,Glucose:110.3;Cholesterol:235.6;HbA1c:4.6,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,131,79,F,I10-I15,Insulin,Glucose:120.5;Cholesterol:189.4;HbA1c:5.5,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,132,18,F,E10-E14,Amlodipine,Glucose:132.1;Cholesterol:225.2;HbA1c:4.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,133,44,F,I20-I25,None;Metformin;ACE Inhibitor,Glucose:105.4;Cholesterol:201.2;HbA1c:5.5,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,134,79,M,I10-I15;I20-I25,Beta-blocker,Glucose:124.6;Cholesterol:201.2;HbA1c:7.6,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,135,20,F,E10-E14,None;Atorvastatin;Amlodipine,Glucose:71.7;Cholesterol:185.1;HbA1c:4.9,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,136,44,M,E10-E14,Atorvastatin;ACE Inhibitor,Glucose:125.1;Cholesterol:125.3;HbA1c:6.1,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,137,26,M,E10-E14,Atorvastatin,Glucose:94.2;Cholesterol:160.6;HbA1c:4.4,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,138,79,M,E10-E14;I10-I15,None;Metformin,Glucose:98.4;Cholesterol:233.4;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,139,54,M,E66,Atorvastatin,Glucose:125.7;Cholesterol:256.6;HbA1c:6.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,140,68,M,I10-I15,ACE Inhibitor;Beta-blocker,Glucose:96.0;Cholesterol:208.7;HbA1c:5.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,141,61,F,I10-I15;I20-I25,Insulin;ACE Inhibitor;Metformin,Glucose:97.4;Cholesterol:129.2;HbA1c:6.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,142,41,F,E10-E14;I10-I15;E66,Amlodipine;Atorvastatin;Insulin,Glucose:100.3;Cholesterol:197.3;HbA1c:4.8,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,143,76,F,E10-E14,Insulin,Glucose:120.9;Cholesterol:159.5;HbA1c:5.7,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,144,49,F,E10-E14;I20-I25;E66,Metformin;Insulin,Glucose:131.9;Cholesterol:221.6;HbA1c:5.8,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,145,69,M,I10-I15,Atorvastatin;ACE Inhibitor,Glucose:65.8;Cholesterol:309.7;HbA1c:7.5,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,146,79,F,I20-I25,Beta-blocker,Glucose:128.1;Cholesterol:159.9;HbA1c:5.7,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,147,75,M,E66,Beta-blocker,Glucose:96.4;Cholesterol:240.6;HbA1c:6.1,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,148,69,F,I10-I15,Insulin;Metformin;Atorvastatin,Glucose:90.4;Cholesterol:171.2;HbA1c:6.9,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,149,29,M,E10-E14;I20-I25,ACE Inhibitor;Beta-blocker;Metformin,Glucose:150.0;Cholesterol:251.1;HbA1c:6.6,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,150,56,M,I10-I15,None;Amlodipine,Glucose:103.7;Cholesterol:60.3;HbA1c:6.1,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,151,19,F,E10-E14;I10-I15,Beta-blocker;Atorvastatin;None,Glucose:110.0;Cholesterol:195.6;HbA1c:5.9,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,152,20,M,E66,Amlodipine;ACE Inhibitor,Glucose:76.8;Cholesterol:212.3;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,153,73,M,I20-I25,Atorvastatin;Insulin,Glucose:127.1;Cholesterol:227.9;HbA1c:6.4,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,154,76,F,I10-I15,Beta-blocker;Metformin,Glucose:99.7;Cholesterol:187.2;HbA1c:5.9,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,155,19,M,E10-E14,ACE Inhibitor,Glucose:112.7;Cholesterol:229.9;HbA1c:6.4,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,156,19,F,I10-I15,Insulin,Glucose:161.9;Cholesterol:278.3;HbA1c:5.9,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,157,71,F,E10-E14,Atorvastatin;Insulin,Glucose:14.1;Cholesterol:239.5;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,158,18,F,E10-E14,Metformin;None;Atorvastatin,Glucose:90.0;Cholesterol:174.1;HbA1c:5.4,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,159,36,M,E10-E14;I10-I15,Amlodipine,Glucose:125.3;Cholesterol:127.6;HbA1c:4.7,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,160,19,M,E10-E14,Amlodipine,Glucose:118.6;Cholesterol:214.9;HbA1c:6.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,161,70,M,E10-E14,Metformin;Insulin;Atorvastatin,Glucose:90.3;Cholesterol:150.9;HbA1c:5.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,162,61,F,E10-E14;I10-I15,Metformin;Atorvastatin,Glucose:116.0;Cholesterol:249.4;HbA1c:3.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,163,49,M,I20-I25,Insulin;Metformin;ACE Inhibitor,Glucose:104.5;Cholesterol:136.7;HbA1c:4.1,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,164,49,F,I10-I15,Metformin,Glucose:134.2;Cholesterol:211.8;HbA1c:6.2,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,165,72,F,E10-E14,None;Insulin,Glucose:133.0;Cholesterol:170.8;HbA1c:5.4,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,166,73,M,I10-I15,ACE Inhibitor;Amlodipine;Beta-blocker,Glucose:164.6;Cholesterol:180.1;HbA1c:6.5,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,167,34,F,I20-I25,Insulin;ACE Inhibitor;Atorvastatin,Glucose:110.2;Cholesterol:116.1;HbA1c:3.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,168,55,M,I10-I15,Atorvastatin;Metformin;Amlodipine,Glucose:95.5;Cholesterol:232.2;HbA1c:6.6,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,169,41,M,E10-E14;I20-I25;E66,Insulin,Glucose:132.9;Cholesterol:150.5;HbA1c:7.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,170,28,M,E10-E14;E66,None;Metformin;Insulin,Glucose:85.9;Cholesterol:198.5;HbA1c:5.8,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,171,33,M,I20-I25,ACE Inhibitor;Insulin;Amlodipine,Glucose:105.7;Cholesterol:243.5;HbA1c:5.1,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,172,76,M,I10-I15,None;Amlodipine,Glucose:76.3;Cholesterol:190.8;HbA1c:5.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,173,20,F,E66,ACE Inhibitor;Amlodipine,Glucose:194.4;Cholesterol:217.1;HbA1c:5.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,174,37,F,I20-I25;E66,Beta-blocker;Atorvastatin,Glucose:83.6;Cholesterol:114.8;HbA1c:4.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,175,76,F,I10-I15,None;Beta-blocker;Metformin,Glucose:112.9;Cholesterol:247.1;HbA1c:6.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,176,53,M,E10-E14;I20-I25,Insulin;ACE Inhibitor,Glucose:115.7;Cholesterol:177.1;HbA1c:6.1,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,177,36,M,I10-I15,Metformin;Insulin;ACE Inhibitor,Glucose:97.0;Cholesterol:258.7;HbA1c:5.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,178,84,M,I10-I15,Metformin;ACE Inhibitor;Atorvastatin,Glucose:107.8;Cholesterol:101.4;HbA1c:5.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,179,36,F,E66,ACE Inhibitor;Atorvastatin,Glucose:130.9;Cholesterol:147.3;HbA1c:5.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,180,37,M,I20-I25;E66,None;Atorvastatin;Amlodipine,Glucose:129.8;Cholesterol:130.9;HbA1c:6.9,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,181,69,F,E10-E14;I10-I15,Atorvastatin;Insulin;ACE Inhibitor,Glucose:96.7;Cholesterol:174.5;HbA1c:4.7,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,182,50,F,I10-I15,Beta-blocker;Metformin;Amlodipine,Glucose:119.5;Cholesterol:288.4;HbA1c:6.6,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,183,57,M,E66,None;Atorvastatin,Glucose:88.4;Cholesterol:235.4;HbA1c:5.5,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,184,56,M,I10-I15;E66,Amlodipine;Metformin,Glucose:144.4;Cholesterol:222.3;HbA1c:2.9,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,185,18,F,E10-E14,Metformin;None,Glucose:84.9;Cholesterol:227.8;HbA1c:6.0,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,186,28,M,E10-E14,Metformin;Insulin;Atorvastatin,Glucose:84.4;Cholesterol:164.7;HbA1c:3.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,187,74,F,I10-I15;I20-I25,Insulin,Glucose:107.8;Cholesterol:278.4;HbA1c:6.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,188,67,M,I10-I15,Amlodipine,Glucose:164.8;Cholesterol:225.3;HbA1c:6.8,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,189,40,M,I10-I15,Beta-blocker;Metformin;Insulin,Glucose:159.4;Cholesterol:205.1;HbA1c:5.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,190,48,F,I20-I25,None;Metformin;Amlodipine,Glucose:135.8;Cholesterol:248.2;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,191,59,M,I10-I15,Beta-blocker;Amlodipine,Glucose:92.0;Cholesterol:195.6;HbA1c:6.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,192,24,F,I10-I15;E66,None;ACE Inhibitor;Metformin,Glucose:130.0;Cholesterol:133.0;HbA1c:7.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,193,33,M,I10-I15,Atorvastatin;Beta-blocker,Glucose:94.0;Cholesterol:179.4;HbA1c:4.9,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,194,77,F,E10-E14,ACE Inhibitor;Amlodipine,Glucose:177.5;Cholesterol:199.7;HbA1c:4.9,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,195,19,F,E10-E14,Insulin;Amlodipine;None,Glucose:131.6;Cholesterol:220.8;HbA1c:5.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,196,18,M,I10-I15;E66,Atorvastatin,Glucose:131.0;Cholesterol:157.0;HbA1c:5.3,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,197,65,F,I20-I25;E66,Beta-blocker;None,Glucose:59.7;Cholesterol:137.0;HbA1c:7.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,198,29,M,E10-E14,None;Beta-blocker,Glucose:151.0;Cholesterol:192.6;HbA1c:7.5,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,199,54,M,E10-E14;I10-I15;E66,None;Metformin,Glucose:106.0;Cholesterol:180.3;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,200,49,M,I10-I15,None;Insulin;Amlodipine,Glucose:106.9;Cholesterol:181.4;HbA1c:6.9,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,201,26,F,I10-I15;I20-I25;E66,Beta-blocker;None;Amlodipine,Glucose:113.8;Cholesterol:218.5;HbA1c:6.8,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,202,36,F,I10-I15,Amlodipine;Atorvastatin,Glucose:119.7;Cholesterol:151.2;HbA1c:4.4,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,203,65,M,I20-I25,Insulin,Glucose:113.7;Cholesterol:183.1;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,204,20,M,I10-I15;I20-I25,Amlodipine;Atorvastatin;ACE Inhibitor,Glucose:109.6;Cholesterol:293.3;HbA1c:4.5,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,205,37,F,I10-I15,None;Insulin,Glucose:60.3;Cholesterol:203.3;HbA1c:5.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,206,41,M,I10-I15,Insulin;Amlodipine,Glucose:117.9;Cholesterol:213.4;HbA1c:7.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,207,71,M,I10-I15,Metformin;None,Glucose:72.3;Cholesterol:167.7;HbA1c:6.2,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,208,50,F,I10-I15,Insulin,Glucose:129.3;Cholesterol:277.7;HbA1c:6.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,209,41,M,E10-E14;I20-I25,Metformin;Amlodipine;None,Glucose:108.6;Cholesterol:154.4;HbA1c:5.2,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,210,53,F,I10-I15,Beta-blocker,Glucose:95.2;Cholesterol:216.2;HbA1c:6.1,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,211,55,M,E66,Beta-blocker;None;Metformin,Glucose:76.9;Cholesterol:172.6;HbA1c:6.7,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,212,42,F,E10-E14;I10-I15;E66,Atorvastatin;Amlodipine,Glucose:118.8;Cholesterol:212.7;HbA1c:6.2,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,213,35,M,E10-E14;I10-I15,ACE Inhibitor,Glucose:150.7;Cholesterol:199.4;HbA1c:5.4,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,214,83,M,I10-I15,Beta-blocker;Atorvastatin;ACE Inhibitor,Glucose:87.1;Cholesterol:200.0;HbA1c:3.4,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,215,71,F,E10-E14;I20-I25;E66,Amlodipine;Insulin;None,Glucose:105.4;Cholesterol:181.8;HbA1c:4.4,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,216,52,M,E10-E14;I10-I15;I20-I25,Insulin,Glucose:86.8;Cholesterol:222.4;HbA1c:6.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,217,78,F,I10-I15,Amlodipine,Glucose:112.5;Cholesterol:202.3;HbA1c:5.9,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,218,58,M,I10-I15;I20-I25,Insulin;Beta-blocker;Metformin,Glucose:141.1;Cholesterol:194.9;HbA1c:4.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,219,50,F,E10-E14;I10-I15,ACE Inhibitor,Glucose:150.8;Cholesterol:204.8;HbA1c:5.2,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,220,50,F,E66,None;Atorvastatin,Glucose:78.7;Cholesterol:205.8;HbA1c:5.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,221,31,F,E10-E14;I10-I15,Atorvastatin;Beta-blocker;ACE Inhibitor,Glucose:149.4;Cholesterol:176.2;HbA1c:5.0,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,222,38,F,I10-I15,Atorvastatin;None;Metformin,Glucose:132.4;Cholesterol:227.0;HbA1c:6.0,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,223,65,M,E66,Atorvastatin;Amlodipine;Insulin,Glucose:126.9;Cholesterol:188.5;HbA1c:6.0,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,224,37,M,I10-I15;E66,Amlodipine;Metformin,Glucose:139.1;Cholesterol:215.0;HbA1c:5.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,225,25,F,I20-I25,ACE Inhibitor;Atorvastatin;None,Glucose:143.8;Cholesterol:95.4;HbA1c:7.9,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,226,24,F,I10-I15;I20-I25,Metformin;Beta-blocker,Glucose:67.4;Cholesterol:164.9;HbA1c:5.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,227,84,F,I10-I15;I20-I25,Atorvastatin;Insulin;Beta-blocker,Glucose:106.3;Cholesterol:230.3;HbA1c:4.7,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,228,34,M,I10-I15,Beta-blocker,Glucose:116.5;Cholesterol:166.9;HbA1c:6.1,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,229,50,M,I10-I15,Atorvastatin;None,Glucose:108.4;Cholesterol:193.7;HbA1c:5.3,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,230,65,M,E66,Insulin,Glucose:97.2;Cholesterol:201.5;HbA1c:6.7,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,231,76,M,I10-I15;E66,Metformin;Amlodipine,Glucose:95.0;Cholesterol:155.2;HbA1c:6.4,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,232,39,F,E10-E14,Metformin;Insulin;None,Glucose:109.2;Cholesterol:223.2;HbA1c:4.9,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,233,47,F,I10-I15;I20-I25,ACE Inhibitor,Glucose:65.5;Cholesterol:168.7;HbA1c:5.0,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,234,55,F,I10-I15,Amlodipine;Insulin,Glucose:108.0;Cholesterol:164.5;HbA1c:6.5,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,235,68,M,I10-I15,Atorvastatin;Beta-blocker,Glucose:102.8;Cholesterol:196.0;HbA1c:6.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,236,71,M,I10-I15,ACE Inhibitor;Metformin;None,Glucose:114.9;Cholesterol:189.0;HbA1c:6.3,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,237,25,M,I10-I15,Amlodipine;Insulin;Beta-blocker,Glucose:90.1;Cholesterol:246.0;HbA1c:5.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,238,44,F,I10-I15,Beta-blocker;Insulin,Glucose:77.2;Cholesterol:197.5;HbA1c:4.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,239,44,F,E66,ACE Inhibitor;Atorvastatin,Glucose:126.6;Cholesterol:278.4;HbA1c:5.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,240,38,M,I10-I15,Insulin,Glucose:118.3;Cholesterol:119.8;HbA1c:6.3,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,241,47,F,E10-E14;I10-I15,Beta-blocker;Metformin;Atorvastatin,Glucose:87.9;Cholesterol:165.0;HbA1c:4.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,242,45,M,I10-I15,Insulin,Glucose:128.3;Cholesterol:230.3;HbA1c:5.8,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,243,81,M,E66,Atorvastatin;Amlodipine;Beta-blocker,Glucose:88.4;Cholesterol:253.6;HbA1c:5.0,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,244,78,F,E66,Atorvastatin;Insulin;ACE Inhibitor,Glucose:55.9;Cholesterol:208.3;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,245,65,M,I10-I15,ACE Inhibitor,Glucose:134.7;Cholesterol:174.8;HbA1c:6.4,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,246,36,F,I10-I15;I20-I25,Insulin,Glucose:145.0;Cholesterol:141.6;HbA1c:5.2,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,247,21,M,E10-E14;I10-I15,Insulin,Glucose:108.1;Cholesterol:251.5;HbA1c:5.1,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,248,52,F,E10-E14;I20-I25,Insulin;None,Glucose:95.1;Cholesterol:209.1;HbA1c:5.2,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,249,81,F,I10-I15,ACE Inhibitor;Metformin;Atorvastatin,Glucose:113.8;Cholesterol:127.9;HbA1c:8.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,250,66,F,I10-I15,Amlodipine,Glucose:76.3;Cholesterol:177.1;HbA1c:5.8,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,251,34,M,I10-I15;E66,Atorvastatin;Insulin,Glucose:157.8;Cholesterol:137.0;HbA1c:7.8,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,252,61,M,I10-I15,None;ACE Inhibitor,Glucose:128.9;Cholesterol:206.7;HbA1c:4.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,253,47,F,I10-I15;E66,Metformin;Insulin;None,Glucose:124.3;Cholesterol:161.1;HbA1c:7.1,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,254,63,F,E10-E14;I10-I15,Atorvastatin,Glucose:85.7;Cholesterol:185.5;HbA1c:5.2,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,255,23,M,I10-I15;E66,Beta-blocker,Glucose:85.3;Cholesterol:219.7;HbA1c:6.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,256,54,M,I10-I15,Amlodipine;ACE Inhibitor,Glucose:140.2;Cholesterol:118.8;HbA1c:6.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,257,41,M,I10-I15,ACE Inhibitor,Glucose:172.6;Cholesterol:171.9;HbA1c:7.7,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,258,63,F,I10-I15;E66,Atorvastatin;Amlodipine;None,Glucose:103.4;Cholesterol:135.1;HbA1c:5.5,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,259,70,M,I10-I15,Atorvastatin,Glucose:136.2;Cholesterol:156.5;HbA1c:5.2,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,260,77,M,I10-I15,None;Atorvastatin,Glucose:124.8;Cholesterol:190.1;HbA1c:6.4,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,261,80,F,E10-E14;I20-I25,ACE Inhibitor;None,Glucose:115.9;Cholesterol:209.2;HbA1c:5.4,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,262,49,M,E10-E14;E66,Insulin,Glucose:115.8;Cholesterol:152.9;HbA1c:7.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,263,50,M,I10-I15,Amlodipine;Metformin,Glucose:94.1;Cholesterol:235.2;HbA1c:5.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,264,84,M,I10-I15;E66,None;Atorvastatin;Beta-blocker,Glucose:115.0;Cholesterol:170.2;HbA1c:4.8,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,265,35,F,I10-I15,ACE Inhibitor;Amlodipine,Glucose:66.4;Cholesterol:147.8;HbA1c:5.5,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,266,42,F,I10-I15,Amlodipine,Glucose:115.3;Cholesterol:230.4;HbA1c:5.4,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,267,71,F,I10-I15,Amlodipine,Glucose:88.0;Cholesterol:132.3;HbA1c:6.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,268,75,F,E10-E14;I10-I15,Amlodipine,Glucose:144.6;Cholesterol:240.7;HbA1c:6.5,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,269,84,F,I20-I25,Metformin,Glucose:126.0;Cholesterol:257.9;HbA1c:6.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,270,63,F,I10-I15,Beta-blocker;ACE Inhibitor;Insulin,Glucose:126.2;Cholesterol:177.2;HbA1c:4.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,271,41,F,E10-E14,Atorvastatin;Insulin,Glucose:92.9;Cholesterol:189.6;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,272,49,M,I10-I15,Insulin,Glucose:158.2;Cholesterol:193.3;HbA1c:7.0,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,273,64,M,I10-I15,Insulin;None,Glucose:99.1;Cholesterol:177.5;HbA1c:4.5,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,274,40,F,E10-E14,Metformin;Beta-blocker,Glucose:91.4;Cholesterol:211.1;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,275,83,M,E10-E14;I10-I15,Amlodipine;Metformin;ACE Inhibitor,Glucose:133.6;Cholesterol:197.3;HbA1c:5.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,276,44,M,I10-I15,Atorvastatin,Glucose:163.7;Cholesterol:186.2;HbA1c:7.0,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,277,19,F,I10-I15,ACE Inhibitor;Atorvastatin;Insulin,Glucose:100.0;Cholesterol:218.4;HbA1c:6.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,278,34,M,E10-E14;I20-I25,Amlodipine;Metformin;Beta-blocker,Glucose:115.2;Cholesterol:95.8;HbA1c:5.8,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,279,50,M,I10-I15;E66,Atorvastatin;Metformin;None,Glucose:140.8;Cholesterol:211.1;HbA1c:6.2,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,280,26,M,I20-I25,Atorvastatin,Glucose:66.9;Cholesterol:161.2;HbA1c:6.2,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,281,60,M,I10-I15;I20-I25,Metformin;None,Glucose:120.3;Cholesterol:238.6;HbA1c:5.7,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,282,65,M,I20-I25;E66,Insulin;ACE Inhibitor,Glucose:120.1;Cholesterol:190.7;HbA1c:4.8,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,283,56,F,I10-I15,ACE Inhibitor,Glucose:53.6;Cholesterol:207.2;HbA1c:6.0,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,284,59,F,I10-I15,Atorvastatin,Glucose:94.5;Cholesterol:125.2;HbA1c:6.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,285,43,F,I10-I15,Beta-blocker;Amlodipine,Glucose:103.4;Cholesterol:212.3;HbA1c:7.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,286,67,M,I10-I15,Metformin;Atorvastatin;Amlodipine,Glucose:56.5;Cholesterol:162.0;HbA1c:5.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,287,42,F,E10-E14,Amlodipine;Insulin,Glucose:146.4;Cholesterol:124.5;HbA1c:7.7,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,288,41,M,I20-I25,Insulin;None;Amlodipine,Glucose:113.4;Cholesterol:186.2;HbA1c:5.6,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,289,30,M,E10-E14,Metformin;None;ACE Inhibitor,Glucose:99.1;Cholesterol:231.9;HbA1c:4.7,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,290,77,M,I20-I25,Metformin;Beta-blocker,Glucose:118.6;Cholesterol:174.6;HbA1c:5.0,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,291,24,M,E10-E14;E66,ACE Inhibitor;None,Glucose:174.6;Cholesterol:206.8;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,292,74,F,I10-I15,Beta-blocker;None,Glucose:138.4;Cholesterol:133.1;HbA1c:7.6,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,293,53,F,E10-E14;I20-I25,Amlodipine;Atorvastatin,Glucose:47.3;Cholesterol:159.2;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,294,62,M,I10-I15;E66,Beta-blocker,Glucose:124.5;Cholesterol:198.7;HbA1c:5.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,295,37,F,E10-E14;E66,Beta-blocker;ACE Inhibitor,Glucose:109.7;Cholesterol:150.9;HbA1c:4.3,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,296,82,M,I10-I15,Amlodipine;Insulin;None,Glucose:128.2;Cholesterol:217.7;HbA1c:7.4,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,297,25,F,I10-I15,ACE Inhibitor;Atorvastatin,Glucose:90.2;Cholesterol:217.7;HbA1c:5.5,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,298,33,F,I20-I25,Atorvastatin;ACE Inhibitor,Glucose:139.8;Cholesterol:230.9;HbA1c:6.0,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,299,31,M,I10-I15,None;Beta-blocker,Glucose:101.5;Cholesterol:228.4;HbA1c:6.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,300,32,F,E10-E14;I10-I15,Insulin,Glucose:92.9;Cholesterol:136.9;HbA1c:5.5,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,301,83,M,I10-I15,ACE Inhibitor;Insulin,Glucose:147.9;Cholesterol:235.9;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,302,49,F,E10-E14;I10-I15,Insulin;Atorvastatin;None,Glucose:80.8;Cholesterol:241.0;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,303,80,M,E10-E14;I10-I15,ACE Inhibitor;Amlodipine;Insulin,Glucose:122.7;Cholesterol:165.4;HbA1c:7.4,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,304,68,M,I10-I15,ACE Inhibitor;Amlodipine,Glucose:90.7;Cholesterol:235.7;HbA1c:6.0,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,305,42,F,I10-I15,None;Atorvastatin;Beta-blocker,Glucose:116.3;Cholesterol:111.2;HbA1c:3.6,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,306,75,F,I10-I15,None;Metformin;Amlodipine,Glucose:104.5;Cholesterol:199.9;HbA1c:4.7,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,307,80,M,I10-I15,ACE Inhibitor;Atorvastatin,Glucose:82.8;Cholesterol:212.5;HbA1c:6.4,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,308,79,F,I10-I15;I20-I25,Metformin;Atorvastatin,Glucose:106.6;Cholesterol:221.2;HbA1c:4.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,309,39,F,I10-I15,Beta-blocker;ACE Inhibitor,Glucose:101.1;Cholesterol:255.9;HbA1c:5.9,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,310,75,M,I10-I15,Beta-blocker;Insulin,Glucose:113.2;Cholesterol:282.2;HbA1c:4.4,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,311,75,M,I10-I15;I20-I25,Atorvastatin,Glucose:129.9;Cholesterol:256.6;HbA1c:5.5,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,312,66,F,E10-E14;I20-I25,ACE Inhibitor,Glucose:131.5;Cholesterol:150.7;HbA1c:5.1,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,313,69,M,I10-I15;I20-I25,Amlodipine;Atorvastatin,Glucose:119.6;Cholesterol:221.9;HbA1c:6.9,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,314,59,M,I10-I15,Amlodipine;ACE Inhibitor;None,Glucose:149.2;Cholesterol:187.3;HbA1c:7.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,315,32,M,E10-E14,Metformin;None,Glucose:101.4;Cholesterol:226.1;HbA1c:6.0,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,316,71,F,I10-I15,Insulin;Amlodipine;None,Glucose:121.1;Cholesterol:206.9;HbA1c:4.2,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,317,77,F,I20-I25;E66,Insulin,Glucose:81.9;Cholesterol:194.1;HbA1c:4.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,318,25,M,I20-I25,ACE Inhibitor;Amlodipine;None,Glucose:130.8;Cholesterol:224.9;HbA1c:6.1,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,319,70,F,E10-E14;I10-I15,Atorvastatin,Glucose:82.0;Cholesterol:245.2;HbA1c:7.8,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,320,77,M,I10-I15;I20-I25,Atorvastatin;None;Beta-blocker,Glucose:113.7;Cholesterol:210.4;HbA1c:6.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,321,22,F,E66,Metformin;Atorvastatin,Glucose:123.3;Cholesterol:185.2;HbA1c:5.8,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,322,23,M,I10-I15,Atorvastatin;ACE Inhibitor,Glucose:132.6;Cholesterol:283.8;HbA1c:4.4,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,323,64,M,I10-I15;I20-I25;E66,Atorvastatin;ACE Inhibitor;Metformin,Glucose:107.4;Cholesterol:142.8;HbA1c:7.4,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,324,72,F,E10-E14,Amlodipine;Insulin;Metformin,Glucose:95.3;Cholesterol:132.3;HbA1c:6.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,325,57,M,E10-E14,ACE Inhibitor,Glucose:153.6;Cholesterol:216.5;HbA1c:6.0,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,326,69,F,E66,Insulin;None,Glucose:120.2;Cholesterol:246.6;HbA1c:4.9,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,327,33,F,I10-I15;I20-I25;E66,Metformin,Glucose:107.2;Cholesterol:171.9;HbA1c:4.6,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,328,30,M,E66,Insulin;Amlodipine;None,Glucose:101.8;Cholesterol:234.3;HbA1c:6.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,329,47,M,I10-I15,None;Amlodipine;ACE Inhibitor,Glucose:126.1;Cholesterol:195.9;HbA1c:6.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,330,36,F,E10-E14;I10-I15,Beta-blocker;None;Insulin,Glucose:90.0;Cholesterol:177.6;HbA1c:6.0,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,331,34,M,E66,ACE Inhibitor;Atorvastatin,Glucose:116.9;Cholesterol:202.8;HbA1c:5.7,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,332,80,M,E10-E14;I10-I15,Amlodipine,Glucose:100.6;Cholesterol:316.3;HbA1c:6.7,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,333,36,M,E10-E14;E66,Insulin,Glucose:120.3;Cholesterol:180.7;HbA1c:5.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,334,75,M,I20-I25,None;Atorvastatin,Glucose:106.7;Cholesterol:201.7;HbA1c:3.9,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,335,72,M,I10-I15,Beta-blocker;Metformin,Glucose:70.8;Cholesterol:164.5;HbA1c:6.0,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,336,79,F,E10-E14;I10-I15;E66,Atorvastatin;Amlodipine;Beta-blocker,Glucose:104.0;Cholesterol:249.1;HbA1c:4.3,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,337,40,F,E10-E14,None;Insulin;ACE Inhibitor,Glucose:91.2;Cholesterol:250.8;HbA1c:5.9,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,338,26,M,I10-I15;E66,Atorvastatin;None,Glucose:132.1;Cholesterol:272.0;HbA1c:5.1,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,339,29,M,I10-I15,Insulin;Atorvastatin,Glucose:107.5;Cholesterol:179.1;HbA1c:3.8,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,340,18,M,I10-I15,Metformin,Glucose:102.2;Cholesterol:225.2;HbA1c:6.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,341,75,F,E10-E14;E66,Insulin,Glucose:125.5;Cholesterol:175.0;HbA1c:5.1,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,342,18,M,I10-I15,Amlodipine,Glucose:141.7;Cholesterol:170.1;HbA1c:6.1,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,343,51,F,E66,Metformin;Amlodipine;None,Glucose:114.1;Cholesterol:248.5;HbA1c:6.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,344,65,F,I10-I15,Amlodipine;Metformin,Glucose:77.6;Cholesterol:142.5;HbA1c:6.4,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,345,18,F,I10-I15,Amlodipine;Atorvastatin;ACE Inhibitor,Glucose:108.4;Cholesterol:171.8;HbA1c:6.8,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,346,33,M,I10-I15;I20-I25,Insulin;Metformin,Glucose:114.7;Cholesterol:192.1;HbA1c:6.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,347,78,F,I10-I15;E66,Atorvastatin;Insulin;None,Glucose:100.6;Cholesterol:252.7;HbA1c:5.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,348,81,M,E66,Insulin;Atorvastatin,Glucose:126.4;Cholesterol:247.4;HbA1c:4.4,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,349,80,F,I10-I15,ACE Inhibitor;Atorvastatin,Glucose:101.4;Cholesterol:235.7;HbA1c:7.0,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,350,39,M,E10-E14;I10-I15,Insulin,Glucose:105.7;Cholesterol:160.6;HbA1c:6.8,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,351,84,F,I10-I15,Metformin;Atorvastatin;Amlodipine,Glucose:139.6;Cholesterol:143.4;HbA1c:4.6,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,352,43,M,I10-I15,Insulin;Amlodipine;None,Glucose:115.6;Cholesterol:215.2;HbA1c:5.5,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,353,33,F,I10-I15,Beta-blocker,Glucose:127.0;Cholesterol:161.6;HbA1c:3.7,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,354,68,M,I10-I15;E66,Atorvastatin;Insulin,Glucose:99.4;Cholesterol:192.5;HbA1c:5.5,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,355,74,M,E10-E14;I20-I25,Metformin;Atorvastatin;ACE Inhibitor,Glucose:81.0;Cholesterol:117.4;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,356,46,M,E10-E14;I10-I15;I20-I25;E66,Insulin,Glucose:132.4;Cholesterol:240.2;HbA1c:7.0,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,357,64,M,I10-I15,Beta-blocker,Glucose:89.6;Cholesterol:143.9;HbA1c:6.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,358,79,F,I10-I15,Insulin,Glucose:125.9;Cholesterol:206.0;HbA1c:3.8,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,359,33,F,E10-E14;I10-I15,ACE Inhibitor,Glucose:88.3;Cholesterol:188.8;HbA1c:6.3,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,360,65,M,I10-I15,ACE Inhibitor,Glucose:129.2;Cholesterol:195.8;HbA1c:6.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,361,56,F,I10-I15;E66,None;Beta-blocker,Glucose:112.1;Cholesterol:217.4;HbA1c:6.1,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,362,50,M,E66,None;Insulin;Beta-blocker,Glucose:111.6;Cholesterol:179.3;HbA1c:5.9,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,363,40,M,E10-E14,Amlodipine;ACE Inhibitor;Insulin,Glucose:122.1;Cholesterol:200.7;HbA1c:6.2,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,364,27,F,I10-I15,ACE Inhibitor;Atorvastatin;Metformin,Glucose:143.6;Cholesterol:200.6;HbA1c:5.2,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,365,51,M,I20-I25,Insulin,Glucose:132.1;Cholesterol:135.4;HbA1c:4.7,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,366,69,M,I10-I15;E66,Amlodipine;ACE Inhibitor;Atorvastatin,Glucose:118.4;Cholesterol:210.7;HbA1c:4.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,367,27,F,E10-E14;I20-I25,Insulin,Glucose:100.4;Cholesterol:165.8;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,368,36,M,I10-I15;E66,Metformin,Glucose:133.6;Cholesterol:218.3;HbA1c:5.8,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,369,75,M,I10-I15;E66,ACE Inhibitor,Glucose:96.4;Cholesterol:136.0;HbA1c:7.2,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,370,18,M,I10-I15,Metformin,Glucose:124.8;Cholesterol:161.7;HbA1c:6.5,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,371,21,M,I10-I15,Amlodipine,Glucose:108.2;Cholesterol:178.5;HbA1c:6.2,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,372,33,F,E66,Insulin;None;Atorvastatin,Glucose:91.5;Cholesterol:176.2;HbA1c:5.9,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,373,41,F,I10-I15,Amlodipine;Atorvastatin;None,Glucose:97.5;Cholesterol:216.8;HbA1c:7.7,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,374,19,F,I10-I15,Amlodipine,Glucose:91.1;Cholesterol:123.4;HbA1c:3.8,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,375,49,M,E10-E14;E66,Beta-blocker;Atorvastatin,Glucose:106.2;Cholesterol:163.5;HbA1c:6.0,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,376,41,M,E66,Beta-blocker,Glucose:113.3;Cholesterol:125.9;HbA1c:4.0,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,377,29,F,E10-E14,Amlodipine;Metformin;Atorvastatin,Glucose:117.4;Cholesterol:195.4;HbA1c:5.4,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,378,67,M,I10-I15,Insulin;Metformin;Beta-blocker,Glucose:68.6;Cholesterol:208.9;HbA1c:7.1,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,379,52,M,I10-I15,Beta-blocker;None;Atorvastatin,Glucose:116.9;Cholesterol:156.1;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,380,50,M,I10-I15,ACE Inhibitor;Amlodipine,Glucose:75.8;Cholesterol:232.3;HbA1c:5.9,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,381,50,M,I10-I15,Beta-blocker,Glucose:65.8;Cholesterol:178.0;HbA1c:6.3,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,382,78,F,E10-E14;I10-I15,Metformin;None;Atorvastatin,Glucose:101.7;Cholesterol:179.0;HbA1c:4.6,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,383,68,F,I10-I15,Insulin,Glucose:124.2;Cholesterol:164.1;HbA1c:3.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,384,60,F,E66,ACE Inhibitor,Glucose:100.7;Cholesterol:229.2;HbA1c:5.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,385,29,M,E66,Metformin;Insulin,Glucose:153.4;Cholesterol:207.2;HbA1c:6.1,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,386,84,F,I10-I15,Beta-blocker;Atorvastatin;Amlodipine,Glucose:106.8;Cholesterol:187.3;HbA1c:5.5,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,387,82,F,I10-I15,None;Metformin;Beta-blocker,Glucose:102.4;Cholesterol:211.2;HbA1c:4.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,388,50,M,I20-I25,Beta-blocker;Atorvastatin,Glucose:83.1;Cholesterol:145.1;HbA1c:7.8,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,389,57,M,I20-I25,None;Metformin,Glucose:123.3;Cholesterol:202.2;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,390,60,F,I10-I15;I20-I25,ACE Inhibitor,Glucose:125.6;Cholesterol:185.3;HbA1c:6.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,391,61,F,E10-E14;I10-I15,Metformin;Atorvastatin;Amlodipine,Glucose:85.6;Cholesterol:196.4;HbA1c:5.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,392,46,F,I10-I15,Atorvastatin;Beta-blocker;ACE Inhibitor,Glucose:90.9;Cholesterol:219.4;HbA1c:4.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,393,30,F,E66,Metformin,Glucose:124.1;Cholesterol:217.4;HbA1c:4.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,394,29,M,I10-I15,Beta-blocker;Insulin,Glucose:89.5;Cholesterol:181.1;HbA1c:6.1,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,395,63,F,I10-I15,Insulin,Glucose:106.2;Cholesterol:207.3;HbA1c:7.6,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,396,19,F,I20-I25,Insulin,Glucose:97.3;Cholesterol:121.4;HbA1c:6.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,397,52,M,E10-E14,Atorvastatin;Amlodipine;Insulin,Glucose:152.1;Cholesterol:205.7;HbA1c:4.7,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,398,25,F,E10-E14;I10-I15,None;Atorvastatin;ACE Inhibitor,Glucose:106.9;Cholesterol:145.3;HbA1c:6.4,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,399,43,M,I20-I25,Metformin;Insulin;Beta-blocker,Glucose:76.2;Cholesterol:178.0;HbA1c:4.8,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,400,51,M,I10-I15,Metformin,Glucose:113.2;Cholesterol:175.3;HbA1c:6.0,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,401,24,M,I20-I25,Amlodipine,Glucose:110.6;Cholesterol:150.5;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,402,75,F,E10-E14;I20-I25,Beta-blocker;Atorvastatin;Metformin,Glucose:108.8;Cholesterol:150.5;HbA1c:8.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,403,46,F,I10-I15,None;Amlodipine;Beta-blocker,Glucose:121.9;Cholesterol:183.9;HbA1c:7.2,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,404,53,M,I10-I15,Metformin;Atorvastatin;ACE Inhibitor,Glucose:156.0;Cholesterol:184.2;HbA1c:6.1,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,405,38,F,E10-E14;I10-I15,Amlodipine;Atorvastatin,Glucose:85.3;Cholesterol:184.1;HbA1c:5.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,406,53,F,I10-I15;I20-I25,None;ACE Inhibitor;Atorvastatin,Glucose:114.6;Cholesterol:203.3;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,407,27,M,E10-E14;I10-I15,Insulin;Atorvastatin;None,Glucose:115.9;Cholesterol:141.6;HbA1c:4.9,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,408,41,M,I10-I15;I20-I25,Insulin;None;ACE Inhibitor,Glucose:96.3;Cholesterol:178.7;HbA1c:6.9,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,409,81,F,E10-E14,Amlodipine;ACE Inhibitor;None,Glucose:80.9;Cholesterol:175.7;HbA1c:6.8,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,410,66,M,I10-I15,Metformin;Insulin,Glucose:102.5;Cholesterol:208.4;HbA1c:5.7,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,411,53,F,I10-I15;I20-I25,Insulin;Beta-blocker,Glucose:116.4;Cholesterol:180.9;HbA1c:6.5,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,412,41,F,I10-I15,Metformin;Beta-blocker;ACE Inhibitor,Glucose:71.4;Cholesterol:175.5;HbA1c:6.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,413,40,F,E66,Amlodipine;ACE Inhibitor,Glucose:123.3;Cholesterol:249.7;HbA1c:5.4,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,414,79,F,I10-I15,Amlodipine,Glucose:147.0;Cholesterol:163.6;HbA1c:7.1,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,415,54,M,I20-I25,Insulin,Glucose:130.4;Cholesterol:153.5;HbA1c:6.1,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,416,29,M,I10-I15;I20-I25,Atorvastatin;None,Glucose:108.7;Cholesterol:215.0;HbA1c:5.6,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,417,72,M,E10-E14,Insulin;ACE Inhibitor,Glucose:102.3;Cholesterol:244.8;HbA1c:5.7,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,418,30,M,E10-E14;E66,Beta-blocker;Amlodipine;Atorvastatin,Glucose:130.7;Cholesterol:181.0;HbA1c:7.5,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,419,40,F,E66,Beta-blocker;Insulin;None,Glucose:93.0;Cholesterol:165.4;HbA1c:7.3,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,420,47,F,I10-I15;I20-I25,Beta-blocker;Metformin,Glucose:98.9;Cholesterol:254.0;HbA1c:6.7,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,421,34,M,I10-I15;E66,Beta-blocker;None,Glucose:106.1;Cholesterol:117.5;HbA1c:5.8,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,422,79,F,E10-E14;I10-I15;I20-I25,Metformin,Glucose:112.5;Cholesterol:236.7;HbA1c:7.4,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,423,30,F,E66,ACE Inhibitor,Glucose:92.9;Cholesterol:222.0;HbA1c:6.6,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,424,76,F,I10-I15,None;Insulin;Atorvastatin,Glucose:136.8;Cholesterol:209.9;HbA1c:3.9,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,425,36,M,I10-I15,Metformin,Glucose:106.1;Cholesterol:143.8;HbA1c:5.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,426,66,M,E66,Metformin;Atorvastatin;ACE Inhibitor,Glucose:134.5;Cholesterol:202.2;HbA1c:6.9,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,427,29,M,I10-I15,Atorvastatin;Insulin;Beta-blocker,Glucose:118.5;Cholesterol:138.1;HbA1c:3.3,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,428,78,F,E10-E14;I10-I15,Atorvastatin,Glucose:113.7;Cholesterol:181.4;HbA1c:4.8,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,429,36,M,E66,Amlodipine,Glucose:67.5;Cholesterol:160.6;HbA1c:5.6,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,430,26,M,I10-I15,Insulin;Amlodipine,Glucose:126.6;Cholesterol:197.5;HbA1c:7.4,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,431,45,M,I10-I15,Atorvastatin,Glucose:84.1;Cholesterol:225.2;HbA1c:5.8,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,432,69,M,I10-I15,None;Beta-blocker,Glucose:127.4;Cholesterol:172.5;HbA1c:6.9,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,433,33,M,E10-E14;E66,Beta-blocker;Atorvastatin,Glucose:117.4;Cholesterol:162.8;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,434,29,M,I10-I15,Atorvastatin,Glucose:104.0;Cholesterol:209.6;HbA1c:4.6,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,435,42,F,E10-E14;I10-I15;I20-I25;E66,Atorvastatin;Beta-blocker;ACE Inhibitor,Glucose:109.3;Cholesterol:205.8;HbA1c:5.8,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,436,69,F,I10-I15,ACE Inhibitor;Insulin,Glucose:143.7;Cholesterol:221.0;HbA1c:5.8,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,437,70,M,E10-E14;I10-I15;E66,Atorvastatin,Glucose:115.4;Cholesterol:201.8;HbA1c:6.2,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,438,40,M,I10-I15,Beta-blocker,Glucose:64.4;Cholesterol:177.9;HbA1c:4.3,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,439,33,F,I10-I15,None;Insulin;Beta-blocker,Glucose:142.0;Cholesterol:187.6;HbA1c:5.6,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,440,74,F,I10-I15,Amlodipine;None;Beta-blocker,Glucose:132.4;Cholesterol:206.9;HbA1c:4.7,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,441,56,M,I20-I25,Metformin,Glucose:108.2;Cholesterol:176.6;HbA1c:4.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,442,70,M,I20-I25,ACE Inhibitor;Beta-blocker;Amlodipine,Glucose:92.7;Cholesterol:182.7;HbA1c:5.7,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,443,59,M,I10-I15,Insulin;ACE Inhibitor;Amlodipine,Glucose:72.9;Cholesterol:236.1;HbA1c:5.7,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,444,75,M,I20-I25,Amlodipine,Glucose:110.9;Cholesterol:206.0;HbA1c:5.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,445,56,F,E10-E14;E66,Beta-blocker,Glucose:121.4;Cholesterol:175.3;HbA1c:4.9,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,446,31,M,E10-E14;I10-I15,ACE Inhibitor,Glucose:124.3;Cholesterol:249.7;HbA1c:6.5,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,447,22,M,I10-I15;I20-I25;E66,ACE Inhibitor;Beta-blocker,Glucose:133.1;Cholesterol:169.2;HbA1c:4.2,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,448,52,M,E10-E14,Amlodipine;Atorvastatin,Glucose:147.3;Cholesterol:272.2;HbA1c:7.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,449,35,M,E10-E14;I10-I15,Metformin;Insulin;ACE Inhibitor,Glucose:101.6;Cholesterol:143.8;HbA1c:4.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,450,26,F,E10-E14;I10-I15;E66,None;Amlodipine,Glucose:67.9;Cholesterol:185.7;HbA1c:7.4,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,451,75,F,E10-E14,Insulin,Glucose:106.5;Cholesterol:202.1;HbA1c:7.2,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,452,34,F,I10-I15,Atorvastatin;Metformin,Glucose:99.9;Cholesterol:271.4;HbA1c:7.8,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,453,24,M,I10-I15,Insulin;Beta-blocker;Amlodipine,Glucose:106.7;Cholesterol:166.9;HbA1c:6.5,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,454,63,M,E66,ACE Inhibitor;Amlodipine;Atorvastatin,Glucose:101.3;Cholesterol:143.7;HbA1c:7.1,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,455,30,F,I10-I15;E66,Insulin;None;ACE Inhibitor,Glucose:140.4;Cholesterol:196.2;HbA1c:4.5,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,456,57,M,I10-I15,ACE Inhibitor,Glucose:79.3;Cholesterol:194.3;HbA1c:5.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,457,59,M,E10-E14;E66,Metformin;Amlodipine,Glucose:101.5;Cholesterol:230.9;HbA1c:6.5,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,458,26,F,I10-I15,Beta-blocker;ACE Inhibitor;Atorvastatin,Glucose:144.5;Cholesterol:150.4;HbA1c:5.5,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,459,67,F,E66,ACE Inhibitor,Glucose:129.0;Cholesterol:207.9;HbA1c:7.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,460,44,F,I10-I15,ACE Inhibitor;Atorvastatin;Amlodipine,Glucose:120.5;Cholesterol:263.9;HbA1c:6.3,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,461,83,F,I10-I15,Atorvastatin;None;Metformin,Glucose:136.6;Cholesterol:177.1;HbA1c:5.8,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,462,22,M,I10-I15,None;Amlodipine;Atorvastatin,Glucose:132.8;Cholesterol:254.5;HbA1c:6.5,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,463,46,M,I10-I15,Insulin;ACE Inhibitor;Beta-blocker,Glucose:107.9;Cholesterol:245.1;HbA1c:3.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,464,54,F,I10-I15;I20-I25,Amlodipine;Beta-blocker;ACE Inhibitor,Glucose:74.4;Cholesterol:217.3;HbA1c:5.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,465,55,M,E66,Amlodipine;Atorvastatin;None,Glucose:125.1;Cholesterol:192.6;HbA1c:6.4,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,466,25,F,I10-I15,Atorvastatin;Beta-blocker,Glucose:89.6;Cholesterol:212.8;HbA1c:6.8,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,467,82,F,I10-I15,Insulin,Glucose:140.5;Cholesterol:270.5;HbA1c:6.0,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,468,34,M,E10-E14;I10-I15;E66,ACE Inhibitor,Glucose:116.8;Cholesterol:129.1;HbA1c:5.3,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,469,62,F,I10-I15,Amlodipine;Insulin;None,Glucose:105.2;Cholesterol:232.0;HbA1c:5.2,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,470,21,M,I10-I15,None;ACE Inhibitor;Atorvastatin,Glucose:129.9;Cholesterol:189.9;HbA1c:5.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,471,53,M,I10-I15,Insulin,Glucose:116.2;Cholesterol:174.4;HbA1c:5.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,472,48,M,I10-I15,Amlodipine,Glucose:67.4;Cholesterol:180.1;HbA1c:5.3,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,473,36,M,I10-I15,Atorvastatin;Amlodipine,Glucose:97.1;Cholesterol:206.7;HbA1c:6.5,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,474,78,F,E10-E14,Insulin;Atorvastatin;Amlodipine,Glucose:115.8;Cholesterol:229.8;HbA1c:6.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,475,71,M,E10-E14;I10-I15,None;Insulin,Glucose:102.6;Cholesterol:171.5;HbA1c:6.1,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,476,56,F,I10-I15,ACE Inhibitor;Amlodipine,Glucose:124.3;Cholesterol:245.9;HbA1c:7.0,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,477,36,F,E66,Atorvastatin,Glucose:96.5;Cholesterol:185.9;HbA1c:6.5,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,478,56,F,E66,ACE Inhibitor;Amlodipine;Atorvastatin,Glucose:136.7;Cholesterol:227.6;HbA1c:5.7,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,479,84,F,I10-I15,Atorvastatin;Amlodipine,Glucose:78.6;Cholesterol:150.0;HbA1c:6.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,480,62,M,I20-I25;E66,Beta-blocker;Atorvastatin;ACE Inhibitor,Glucose:118.6;Cholesterol:146.1;HbA1c:5.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,481,30,M,I10-I15,Atorvastatin,Glucose:125.8;Cholesterol:144.0;HbA1c:6.9,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,482,75,F,I10-I15,None;Atorvastatin;Insulin,Glucose:100.6;Cholesterol:240.3;HbA1c:5.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,483,37,F,I10-I15,Metformin;Insulin;Atorvastatin,Glucose:84.3;Cholesterol:171.7;HbA1c:5.7,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,484,78,M,E10-E14,None;Beta-blocker,Glucose:100.3;Cholesterol:181.4;HbA1c:6.1,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,485,56,F,E10-E14,ACE Inhibitor;Insulin;Beta-blocker,Glucose:105.7;Cholesterol:187.4;HbA1c:4.1,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,486,18,M,I10-I15;I20-I25,Insulin,Glucose:119.8;Cholesterol:186.4;HbA1c:7.4,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,487,20,F,I20-I25,Insulin;Amlodipine,Glucose:86.5;Cholesterol:117.7;HbA1c:6.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,488,79,M,E10-E14,Atorvastatin;None;Amlodipine,Glucose:118.7;Cholesterol:149.7;HbA1c:4.3,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,489,80,F,E10-E14,Beta-blocker,Glucose:148.4;Cholesterol:246.6;HbA1c:3.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,490,42,F,I10-I15,Atorvastatin;Insulin,Glucose:98.5;Cholesterol:256.6;HbA1c:5.3,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,491,73,M,I10-I15,Amlodipine,Glucose:97.7;Cholesterol:178.7;HbA1c:4.7,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,492,50,F,E10-E14;I10-I15,None;ACE Inhibitor,Glucose:67.4;Cholesterol:232.1;HbA1c:4.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,493,55,F,I10-I15,Insulin,Glucose:116.2;Cholesterol:225.5;HbA1c:4.3,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,494,23,M,E10-E14;I10-I15;E66,Amlodipine;Metformin,Glucose:86.9;Cholesterol:238.5;HbA1c:6.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,495,75,F,E10-E14;I10-I15,ACE Inhibitor;Amlodipine;Metformin,Glucose:94.6;Cholesterol:238.1;HbA1c:7.0,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,496,61,M,E66,ACE Inhibitor;Metformin,Glucose:116.7;Cholesterol:154.0;HbA1c:5.4,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,497,62,M,E66,Amlodipine;Beta-blocker,Glucose:117.2;Cholesterol:182.5;HbA1c:6.7,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,498,49,F,I10-I15,Beta-blocker;None;Amlodipine,Glucose:71.8;Cholesterol:130.2;HbA1c:6.0,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,499,62,F,I10-I15,Amlodipine,Glucose:97.7;Cholesterol:164.9;HbA1c:4.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,500,78,F,I10-I15,ACE Inhibitor;Insulin,Glucose:110.5;Cholesterol:187.9;HbA1c:6.5,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,501,64,F,E10-E14,ACE Inhibitor;Insulin;None,Glucose:111.7;Cholesterol:184.7;HbA1c:7.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,502,38,F,I10-I15,None;Insulin;Metformin,Glucose:77.2;Cholesterol:211.5;HbA1c:4.1,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,503,53,F,I10-I15,Insulin,Glucose:89.0;Cholesterol:141.5;HbA1c:6.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,504,36,F,I10-I15,Insulin,Glucose:108.4;Cholesterol:189.5;HbA1c:4.7,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,505,37,M,I10-I15;E66,Insulin;Beta-blocker;Amlodipine,Glucose:102.5;Cholesterol:159.5;HbA1c:6.2,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,506,74,F,I10-I15,Beta-blocker,Glucose:85.2;Cholesterol:243.2;HbA1c:4.1,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,507,35,M,E10-E14;I10-I15,ACE Inhibitor,Glucose:89.8;Cholesterol:257.1;HbA1c:5.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,508,64,F,E10-E14,Insulin,Glucose:77.1;Cholesterol:198.8;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,509,66,F,I10-I15;I20-I25,Beta-blocker,Glucose:89.1;Cholesterol:146.2;HbA1c:8.6,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,510,31,M,I10-I15,Beta-blocker,Glucose:103.7;Cholesterol:113.0;HbA1c:7.3,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,511,32,F,I10-I15,Beta-blocker;Atorvastatin;Insulin,Glucose:125.3;Cholesterol:159.3;HbA1c:4.9,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,512,48,F,E10-E14,Atorvastatin;None;Insulin,Glucose:126.8;Cholesterol:180.1;HbA1c:3.9,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,513,18,M,E66,ACE Inhibitor;Insulin;Amlodipine,Glucose:154.7;Cholesterol:172.6;HbA1c:7.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,514,71,F,E10-E14;I20-I25,Atorvastatin,Glucose:142.0;Cholesterol:150.0;HbA1c:6.8,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,515,20,F,E66,Amlodipine;Metformin;None,Glucose:93.7;Cholesterol:115.3;HbA1c:5.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,516,33,F,I20-I25,Amlodipine,Glucose:119.9;Cholesterol:171.5;HbA1c:5.5,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,517,74,M,E10-E14;E66,Insulin,Glucose:138.6;Cholesterol:194.3;HbA1c:5.0,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,518,29,F,I10-I15,Beta-blocker,Glucose:127.6;Cholesterol:197.9;HbA1c:3.3,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,519,33,F,I10-I15;E66,Amlodipine;Atorvastatin,Glucose:120.7;Cholesterol:205.7;HbA1c:5.8,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,520,41,F,I10-I15,None;Metformin,Glucose:132.3;Cholesterol:163.1;HbA1c:6.1,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,521,45,F,E10-E14;I10-I15;I20-I25;E66,Insulin,Glucose:70.8;Cholesterol:206.3;HbA1c:7.8,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,522,25,M,E10-E14;E66,Amlodipine;Metformin;ACE Inhibitor,Glucose:85.1;Cholesterol:159.6;HbA1c:5.1,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,523,53,M,E10-E14;I10-I15,Insulin;ACE Inhibitor,Glucose:113.2;Cholesterol:147.5;HbA1c:6.2,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,524,25,F,I10-I15,ACE Inhibitor;Atorvastatin,Glucose:131.2;Cholesterol:211.4;HbA1c:4.0,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,525,75,F,I10-I15;E66,Amlodipine;ACE Inhibitor;Metformin,Glucose:134.9;Cholesterol:227.5;HbA1c:6.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,526,77,M,E10-E14;I10-I15;E66,None;ACE Inhibitor;Metformin,Glucose:119.3;Cholesterol:198.8;HbA1c:6.8,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,527,67,M,E10-E14;I20-I25,Insulin,Glucose:158.1;Cholesterol:151.9;HbA1c:6.9,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,528,45,F,I10-I15;I20-I25,Metformin;ACE Inhibitor,Glucose:107.8;Cholesterol:184.8;HbA1c:4.3,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,529,58,M,E66,None;Insulin,Glucose:102.9;Cholesterol:150.1;HbA1c:5.3,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,530,81,F,I20-I25,Metformin;None,Glucose:82.5;Cholesterol:172.0;HbA1c:5.4,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,531,44,M,E10-E14;I20-I25,Insulin;None,Glucose:112.4;Cholesterol:125.4;HbA1c:4.4,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,532,80,M,I20-I25,None;Atorvastatin;Insulin,Glucose:119.0;Cholesterol:158.1;HbA1c:6.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,533,34,M,I10-I15,ACE Inhibitor;Insulin;Amlodipine,Glucose:115.6;Cholesterol:214.3;HbA1c:7.2,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,534,50,M,I10-I15,None;Beta-blocker;Atorvastatin,Glucose:102.3;Cholesterol:167.0;HbA1c:6.7,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,535,46,F,I10-I15,Metformin,Glucose:122.7;Cholesterol:182.5;HbA1c:7.2,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,536,30,M,E10-E14,ACE Inhibitor,Glucose:104.7;Cholesterol:191.3;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,537,63,M,I10-I15,Atorvastatin,Glucose:86.6;Cholesterol:193.1;HbA1c:7.2,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,538,52,F,I10-I15,Atorvastatin,Glucose:121.1;Cholesterol:191.2;HbA1c:5.6,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,539,23,M,E10-E14;I10-I15;E66,Insulin,Glucose:118.3;Cholesterol:220.0;HbA1c:6.4,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,540,64,M,I10-I15,Amlodipine;ACE Inhibitor,Glucose:101.7;Cholesterol:203.0;HbA1c:6.3,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,541,42,F,E10-E14,ACE Inhibitor;Beta-blocker;Insulin,Glucose:84.8;Cholesterol:196.7;HbA1c:3.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,542,83,M,E10-E14;I20-I25,Insulin;Atorvastatin;Metformin,Glucose:122.1;Cholesterol:216.4;HbA1c:6.5,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,543,27,F,E10-E14;I10-I15,Beta-blocker,Glucose:100.1;Cholesterol:202.4;HbA1c:7.2,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,544,73,F,E66,Metformin;None,Glucose:145.3;Cholesterol:188.8;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,545,47,F,E66,Beta-blocker,Glucose:137.8;Cholesterol:130.0;HbA1c:5.5,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,546,22,F,E66,Insulin,Glucose:143.4;Cholesterol:229.0;HbA1c:6.2,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,547,50,M,I10-I15,ACE Inhibitor,Glucose:72.4;Cholesterol:188.0;HbA1c:5.2,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,548,82,F,E10-E14;I10-I15;I20-I25,Beta-blocker;None,Glucose:118.3;Cholesterol:157.6;HbA1c:4.8,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,549,35,M,E66,Insulin;None;Atorvastatin,Glucose:58.4;Cholesterol:238.9;HbA1c:5.4,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,550,66,M,I10-I15;I20-I25,Metformin,Glucose:113.9;Cholesterol:189.9;HbA1c:4.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,551,28,M,I10-I15;E66,ACE Inhibitor;Insulin;Beta-blocker,Glucose:78.5;Cholesterol:149.8;HbA1c:5.1,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,552,43,M,E10-E14,Insulin;ACE Inhibitor,Glucose:119.2;Cholesterol:158.2;HbA1c:7.5,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,553,80,M,I10-I15,Insulin;Metformin;Amlodipine,Glucose:135.7;Cholesterol:222.3;HbA1c:5.7,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,554,76,M,I10-I15,Metformin;Insulin,Glucose:147.9;Cholesterol:181.3;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,555,44,M,I10-I15;I20-I25;E66,None;Amlodipine;ACE Inhibitor,Glucose:114.2;Cholesterol:218.1;HbA1c:6.4,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,556,66,M,I10-I15,Amlodipine;Metformin,Glucose:98.1;Cholesterol:168.7;HbA1c:6.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,557,50,M,I20-I25;E66,Atorvastatin;None;Insulin,Glucose:127.9;Cholesterol:174.3;HbA1c:4.2,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,558,18,M,E66,Metformin;ACE Inhibitor,Glucose:104.8;Cholesterol:214.9;HbA1c:7.6,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,559,38,F,E10-E14;E66,Insulin;None;Metformin,Glucose:80.1;Cholesterol:172.9;HbA1c:5.4,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,560,72,F,I10-I15,Beta-blocker,Glucose:143.9;Cholesterol:188.6;HbA1c:4.9,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,561,23,F,E10-E14;I10-I15,Insulin;Metformin;None,Glucose:124.0;Cholesterol:173.8;HbA1c:4.6,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,562,22,M,I10-I15;E66,Insulin,Glucose:87.7;Cholesterol:259.4;HbA1c:6.2,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,563,20,F,I10-I15,Metformin,Glucose:112.7;Cholesterol:180.0;HbA1c:6.1,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,564,70,F,E10-E14;I10-I15,Insulin;ACE Inhibitor;None,Glucose:117.0;Cholesterol:201.7;HbA1c:5.9,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,565,40,F,I10-I15;E66,None;Atorvastatin;Insulin,Glucose:131.7;Cholesterol:190.9;HbA1c:4.8,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,566,70,M,I10-I15,Insulin,Glucose:94.7;Cholesterol:110.8;HbA1c:7.8,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,567,54,M,I10-I15,Amlodipine;Metformin;ACE Inhibitor,Glucose:131.6;Cholesterol:156.8;HbA1c:5.5,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,568,34,M,I10-I15,Amlodipine;Insulin,Glucose:94.1;Cholesterol:251.7;HbA1c:4.4,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,569,18,M,E10-E14;I20-I25,Amlodipine;Metformin;ACE Inhibitor,Glucose:112.9;Cholesterol:185.7;HbA1c:6.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,570,68,F,I10-I15,None;Amlodipine,Glucose:107.4;Cholesterol:119.7;HbA1c:5.5,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,571,62,F,I10-I15,Amlodipine,Glucose:85.7;Cholesterol:193.2;HbA1c:7.2,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,572,21,F,E66,Beta-blocker,Glucose:66.5;Cholesterol:158.0;HbA1c:5.2,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,573,79,F,I20-I25;E66,Amlodipine;Atorvastatin;Insulin,Glucose:100.5;Cholesterol:219.6;HbA1c:5.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,574,82,M,E10-E14;I20-I25,ACE Inhibitor;Insulin,Glucose:120.4;Cholesterol:165.0;HbA1c:6.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,575,49,M,I10-I15,Amlodipine;Metformin;Beta-blocker,Glucose:129.4;Cholesterol:160.7;HbA1c:6.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,576,51,M,I10-I15,Insulin;ACE Inhibitor;Beta-blocker,Glucose:111.3;Cholesterol:231.8;HbA1c:5.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,577,56,F,E66,Amlodipine,Glucose:119.5;Cholesterol:188.4;HbA1c:5.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,578,43,M,E10-E14;I10-I15,Amlodipine;Insulin;None,Glucose:116.5;Cholesterol:211.5;HbA1c:4.6,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,579,51,M,I10-I15,Insulin,Glucose:145.8;Cholesterol:115.6;HbA1c:5.1,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,580,71,F,E66,Atorvastatin,Glucose:107.6;Cholesterol:206.5;HbA1c:7.4,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,581,20,F,E10-E14;I10-I15,Metformin;ACE Inhibitor;None,Glucose:63.5;Cholesterol:169.7;HbA1c:3.7,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,582,67,M,E10-E14,Metformin;Insulin;Beta-blocker,Glucose:110.8;Cholesterol:200.9;HbA1c:7.4,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,583,29,M,I10-I15,Beta-blocker;Metformin,Glucose:113.0;Cholesterol:231.8;HbA1c:6.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,584,82,M,E10-E14;I10-I15,Amlodipine,Glucose:99.1;Cholesterol:133.6;HbA1c:6.1,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,585,71,M,I10-I15,Metformin,Glucose:72.7;Cholesterol:241.8;HbA1c:5.6,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,586,22,M,I10-I15,Beta-blocker,Glucose:139.9;Cholesterol:170.8;HbA1c:6.1,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,587,74,M,I10-I15;I20-I25,None;ACE Inhibitor;Insulin,Glucose:115.2;Cholesterol:188.2;HbA1c:5.4,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,588,34,F,I10-I15,Insulin,Glucose:119.8;Cholesterol:153.0;HbA1c:4.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,589,64,F,E10-E14;E66,Insulin,Glucose:141.1;Cholesterol:219.1;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,590,40,F,I20-I25,Insulin;ACE Inhibitor;Metformin,Glucose:151.6;Cholesterol:179.3;HbA1c:7.1,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,591,31,M,I10-I15;I20-I25,Metformin,Glucose:114.4;Cholesterol:149.0;HbA1c:7.6,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,592,83,F,E10-E14,None;Beta-blocker,Glucose:134.8;Cholesterol:185.2;HbA1c:6.5,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,593,68,M,E10-E14,Beta-blocker;Atorvastatin;ACE Inhibitor,Glucose:99.9;Cholesterol:223.2;HbA1c:3.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,594,55,M,E10-E14;I10-I15,Insulin;None,Glucose:84.5;Cholesterol:229.2;HbA1c:5.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,595,81,F,E10-E14,Insulin,Glucose:115.2;Cholesterol:136.1;HbA1c:7.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,596,55,M,I10-I15,Metformin,Glucose:139.8;Cholesterol:182.0;HbA1c:5.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,597,67,M,I10-I15,Atorvastatin;Beta-blocker;Metformin,Glucose:135.7;Cholesterol:269.3;HbA1c:6.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,598,47,F,E10-E14;I10-I15,Beta-blocker;ACE Inhibitor,Glucose:164.3;Cholesterol:153.1;HbA1c:5.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,599,68,F,I10-I15,None;Atorvastatin;Metformin,Glucose:80.3;Cholesterol:207.7;HbA1c:6.0,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,600,80,F,I10-I15,Metformin;Beta-blocker;None,Glucose:106.2;Cholesterol:222.4;HbA1c:7.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,601,69,M,I10-I15,ACE Inhibitor,Glucose:71.9;Cholesterol:166.1;HbA1c:6.6,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,602,55,F,I10-I15,None;Metformin;Beta-blocker,Glucose:98.3;Cholesterol:158.1;HbA1c:6.8,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,603,47,F,E10-E14,Metformin,Glucose:77.8;Cholesterol:177.9;HbA1c:6.1,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,604,68,M,I10-I15;E66,Insulin,Glucose:95.7;Cholesterol:221.3;HbA1c:5.2,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,605,22,F,E66,Beta-blocker,Glucose:145.2;Cholesterol:185.0;HbA1c:6.5,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,606,46,F,I10-I15,None;ACE Inhibitor;Amlodipine,Glucose:128.7;Cholesterol:164.9;HbA1c:3.7,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,607,21,F,I10-I15,Insulin,Glucose:119.0;Cholesterol:192.9;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,608,27,M,E10-E14;I10-I15,ACE Inhibitor;Amlodipine,Glucose:104.3;Cholesterol:172.8;HbA1c:7.8,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,609,73,M,I10-I15;E66,Atorvastatin;Beta-blocker;Amlodipine,Glucose:73.2;Cholesterol:219.4;HbA1c:5.2,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,610,34,M,E10-E14;I20-I25,None;Beta-blocker,Glucose:101.6;Cholesterol:177.3;HbA1c:5.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,611,34,M,E10-E14;E66,ACE Inhibitor;Insulin;Atorvastatin,Glucose:124.3;Cholesterol:245.6;HbA1c:6.3,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,612,51,F,E66,None;ACE Inhibitor;Insulin,Glucose:112.6;Cholesterol:150.5;HbA1c:6.3,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,613,23,M,I10-I15,Insulin,Glucose:163.9;Cholesterol:174.8;HbA1c:5.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,614,70,M,I10-I15,Metformin;Atorvastatin;Beta-blocker,Glucose:96.0;Cholesterol:170.4;HbA1c:3.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,615,83,F,I10-I15,Atorvastatin,Glucose:120.1;Cholesterol:156.2;HbA1c:4.2,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,616,60,F,E10-E14,Insulin,Glucose:128.8;Cholesterol:146.7;HbA1c:5.5,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,617,40,F,I10-I15,ACE Inhibitor,Glucose:146.7;Cholesterol:133.6;HbA1c:4.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,618,72,M,I10-I15,ACE Inhibitor;Beta-blocker;Metformin,Glucose:116.7;Cholesterol:236.0;HbA1c:4.2,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,619,33,M,I10-I15;I20-I25,Metformin;Atorvastatin,Glucose:120.2;Cholesterol:213.2;HbA1c:3.7,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,620,25,M,E10-E14,Beta-blocker;None,Glucose:130.0;Cholesterol:225.1;HbA1c:5.5,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,621,21,F,I10-I15,Beta-blocker;ACE Inhibitor;None,Glucose:141.3;Cholesterol:235.5;HbA1c:5.9,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,622,21,F,I10-I15,Amlodipine;Metformin,Glucose:98.7;Cholesterol:151.1;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,623,73,M,I10-I15,Insulin,Glucose:124.2;Cholesterol:177.0;HbA1c:3.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,624,42,F,I10-I15;E66,Insulin,Glucose:141.7;Cholesterol:197.6;HbA1c:5.4,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,625,84,F,I10-I15,Atorvastatin,Glucose:131.4;Cholesterol:251.0;HbA1c:3.0,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,626,84,F,I10-I15;I20-I25,Atorvastatin;None;Amlodipine,Glucose:120.9;Cholesterol:132.9;HbA1c:6.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,627,44,M,I20-I25,Insulin;ACE Inhibitor,Glucose:113.2;Cholesterol:215.4;HbA1c:5.3,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,628,49,F,E10-E14;I10-I15,Atorvastatin;None,Glucose:63.2;Cholesterol:172.0;HbA1c:6.2,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,629,67,F,E10-E14;I10-I15;I20-I25,Insulin;ACE Inhibitor;Amlodipine,Glucose:135.4;Cholesterol:143.1;HbA1c:6.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,630,78,M,I10-I15,Metformin;Beta-blocker;ACE Inhibitor,Glucose:93.8;Cholesterol:204.5;HbA1c:5.3,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,631,68,M,I20-I25;E66,Insulin;Amlodipine,Glucose:114.6;Cholesterol:225.7;HbA1c:4.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,632,36,F,I10-I15;I20-I25,Insulin,Glucose:93.0;Cholesterol:197.4;HbA1c:8.2,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,633,38,F,E10-E14;E66,Amlodipine;Insulin;Beta-blocker,Glucose:88.4;Cholesterol:271.6;HbA1c:7.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,634,22,M,I10-I15,ACE Inhibitor;Beta-blocker,Glucose:107.6;Cholesterol:178.1;HbA1c:5.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,635,59,M,E10-E14,Amlodipine,Glucose:108.3;Cholesterol:133.7;HbA1c:5.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,636,78,F,I20-I25,Beta-blocker;Amlodipine;Insulin,Glucose:147.4;Cholesterol:165.6;HbA1c:5.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,637,39,F,E66,Insulin,Glucose:67.5;Cholesterol:205.0;HbA1c:6.1,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,638,38,F,I20-I25,Atorvastatin;ACE Inhibitor,Glucose:111.6;Cholesterol:181.3;HbA1c:5.5,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,639,18,F,I20-I25;E66,Insulin;None,Glucose:122.5;Cholesterol:188.8;HbA1c:6.1,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,640,22,M,I10-I15,Insulin;ACE Inhibitor,Glucose:115.4;Cholesterol:234.9;HbA1c:6.5,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,641,29,F,I10-I15;E66,ACE Inhibitor;Atorvastatin,Glucose:114.8;Cholesterol:250.7;HbA1c:6.2,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,642,63,F,E66,ACE Inhibitor,Glucose:142.6;Cholesterol:214.3;HbA1c:4.0,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,643,51,M,E10-E14;I10-I15,Metformin,Glucose:142.6;Cholesterol:195.4;HbA1c:5.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,644,66,F,I10-I15;I20-I25,Insulin,Glucose:117.0;Cholesterol:176.2;HbA1c:6.0,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,645,62,M,I10-I15,Insulin;None;ACE Inhibitor,Glucose:95.2;Cholesterol:241.0;HbA1c:5.7,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,646,44,F,E66,Metformin;Insulin,Glucose:100.4;Cholesterol:153.0;HbA1c:6.1,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,647,43,F,I10-I15,Insulin,Glucose:114.7;Cholesterol:205.5;HbA1c:4.8,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,648,64,M,E66,Metformin,Glucose:70.0;Cholesterol:215.0;HbA1c:7.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,649,73,M,I10-I15,Atorvastatin;None;Beta-blocker,Glucose:84.3;Cholesterol:253.6;HbA1c:6.1,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,650,80,F,E10-E14;I20-I25,Amlodipine;None,Glucose:109.8;Cholesterol:174.1;HbA1c:4.4,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,651,65,F,I10-I15,Metformin;Beta-blocker;Amlodipine,Glucose:134.7;Cholesterol:159.0;HbA1c:5.0,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,652,78,F,I10-I15,Beta-blocker;Atorvastatin,Glucose:134.8;Cholesterol:114.7;HbA1c:4.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,653,43,M,I10-I15,Atorvastatin,Glucose:109.5;Cholesterol:201.7;HbA1c:6.3,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,654,53,F,I10-I15,Metformin;None;Beta-blocker,Glucose:102.5;Cholesterol:291.2;HbA1c:5.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,655,18,M,E66,Amlodipine;Atorvastatin;Metformin,Glucose:104.2;Cholesterol:158.1;HbA1c:5.9,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,656,25,M,I10-I15,Insulin;None,Glucose:125.4;Cholesterol:238.1;HbA1c:4.3,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,657,69,F,E10-E14;I10-I15,Beta-blocker,Glucose:103.9;Cholesterol:207.9;HbA1c:6.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,658,64,M,I10-I15;I20-I25,Insulin,Glucose:110.2;Cholesterol:211.7;HbA1c:5.0,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,659,73,F,I10-I15,Beta-blocker;Metformin;Insulin,Glucose:148.9;Cholesterol:229.7;HbA1c:4.5,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,660,31,F,I10-I15,ACE Inhibitor,Glucose:83.1;Cholesterol:148.1;HbA1c:6.5,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,661,45,F,I10-I15;E66,ACE Inhibitor;Atorvastatin,Glucose:77.9;Cholesterol:176.8;HbA1c:6.3,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,662,19,F,I10-I15,ACE Inhibitor,Glucose:108.3;Cholesterol:200.4;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,663,43,F,E10-E14;I10-I15;I20-I25,Insulin;ACE Inhibitor,Glucose:124.9;Cholesterol:165.5;HbA1c:5.5,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,664,31,M,I10-I15,Atorvastatin,Glucose:115.9;Cholesterol:194.1;HbA1c:5.8,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,665,76,M,I10-I15,Amlodipine;Metformin,Glucose:91.2;Cholesterol:178.0;HbA1c:5.8,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,666,73,F,E10-E14;I10-I15;E66,Beta-blocker;Metformin;Insulin,Glucose:75.6;Cholesterol:171.5;HbA1c:6.2,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,667,24,F,E66,Beta-blocker;Metformin,Glucose:78.1;Cholesterol:236.3;HbA1c:7.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,668,20,M,E10-E14;E66,Beta-blocker;None;ACE Inhibitor,Glucose:78.9;Cholesterol:244.3;HbA1c:5.7,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,669,40,M,I10-I15,Atorvastatin;Insulin;Beta-blocker,Glucose:120.5;Cholesterol:170.1;HbA1c:6.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,670,35,M,E10-E14;I10-I15,Amlodipine,Glucose:120.2;Cholesterol:157.4;HbA1c:4.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,671,55,M,I20-I25,Insulin;Atorvastatin,Glucose:73.5;Cholesterol:197.5;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,672,32,F,E10-E14,None;Metformin,Glucose:126.3;Cholesterol:185.3;HbA1c:4.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,673,81,F,I10-I15,None;Insulin,Glucose:92.9;Cholesterol:236.1;HbA1c:5.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,674,45,M,E10-E14;I10-I15;E66,ACE Inhibitor;None;Insulin,Glucose:113.6;Cholesterol:147.0;HbA1c:6.1,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,675,56,F,E66,Metformin;ACE Inhibitor;Atorvastatin,Glucose:98.6;Cholesterol:231.9;HbA1c:6.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,676,74,M,I10-I15,Atorvastatin,Glucose:97.6;Cholesterol:184.9;HbA1c:5.2,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,677,34,F,I10-I15;I20-I25,Insulin;None;Atorvastatin,Glucose:74.5;Cholesterol:155.7;HbA1c:6.0,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,678,61,M,I20-I25,ACE Inhibitor,Glucose:118.1;Cholesterol:195.9;HbA1c:5.5,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,679,42,F,I20-I25;E66,Beta-blocker;ACE Inhibitor,Glucose:133.3;Cholesterol:192.5;HbA1c:6.5,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,680,34,M,I10-I15;E66,ACE Inhibitor;None;Amlodipine,Glucose:65.7;Cholesterol:33.1;HbA1c:6.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,681,30,M,I10-I15,Metformin;ACE Inhibitor;Insulin,Glucose:74.4;Cholesterol:181.5;HbA1c:5.5,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,682,42,F,I10-I15,Insulin;Beta-blocker;Metformin,Glucose:149.7;Cholesterol:206.0;HbA1c:6.0,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,683,27,M,I10-I15;E66,Beta-blocker;ACE Inhibitor;Atorvastatin,Glucose:130.9;Cholesterol:204.7;HbA1c:5.3,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,684,84,F,I10-I15;I20-I25,ACE Inhibitor;Amlodipine,Glucose:136.8;Cholesterol:145.6;HbA1c:6.1,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,685,35,F,I10-I15,Amlodipine;Metformin;Insulin,Glucose:71.3;Cholesterol:198.2;HbA1c:6.0,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,686,51,M,I10-I15,Amlodipine;None;Beta-blocker,Glucose:151.9;Cholesterol:127.4;HbA1c:5.2,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,687,25,F,I10-I15,Insulin,Glucose:130.6;Cholesterol:203.4;HbA1c:6.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,688,57,F,E10-E14;I20-I25,Atorvastatin;ACE Inhibitor;Amlodipine,Glucose:86.1;Cholesterol:166.4;HbA1c:7.0,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,689,59,F,I10-I15,Amlodipine;ACE Inhibitor,Glucose:108.7;Cholesterol:205.0;HbA1c:5.7,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,690,58,F,E66,Metformin;Beta-blocker;None,Glucose:80.4;Cholesterol:227.4;HbA1c:6.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,691,23,F,E10-E14;I10-I15,None;ACE Inhibitor;Amlodipine,Glucose:167.6;Cholesterol:149.4;HbA1c:6.6,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,692,69,M,I10-I15;I20-I25,Insulin;Metformin,Glucose:77.2;Cholesterol:196.3;HbA1c:6.8,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,693,43,F,E10-E14,Insulin,Glucose:58.2;Cholesterol:181.8;HbA1c:5.2,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,694,81,F,E10-E14;I10-I15;I20-I25,Amlodipine,Glucose:92.5;Cholesterol:205.4;HbA1c:6.9,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,695,76,F,I10-I15,Amlodipine;Beta-blocker;Insulin,Glucose:106.7;Cholesterol:198.2;HbA1c:5.9,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,696,73,F,E10-E14,Atorvastatin,Glucose:110.0;Cholesterol:146.4;HbA1c:6.9,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,697,76,F,I10-I15,None;Beta-blocker,Glucose:117.4;Cholesterol:205.8;HbA1c:5.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,698,50,M,I10-I15,Amlodipine,Glucose:98.5;Cholesterol:183.0;HbA1c:4.3,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,699,70,F,I10-I15,Amlodipine;Insulin,Glucose:67.8;Cholesterol:166.0;HbA1c:6.3,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,700,39,M,I20-I25,Beta-blocker,Glucose:93.7;Cholesterol:149.2;HbA1c:5.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,701,38,M,E10-E14,Insulin;Metformin;Beta-blocker,Glucose:98.6;Cholesterol:175.8;HbA1c:8.0,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,702,21,M,I10-I15,Amlodipine;Metformin,Glucose:136.4;Cholesterol:231.0;HbA1c:7.0,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,703,79,M,E66,Insulin;Atorvastatin,Glucose:85.0;Cholesterol:141.1;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,704,79,F,E66,Atorvastatin;Amlodipine;Insulin,Glucose:143.4;Cholesterol:168.1;HbA1c:4.5,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,705,41,M,I20-I25,Amlodipine;ACE Inhibitor;Metformin,Glucose:99.2;Cholesterol:180.5;HbA1c:6.1,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,706,72,M,I10-I15,Atorvastatin,Glucose:116.3;Cholesterol:156.9;HbA1c:6.5,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,707,26,F,E10-E14,Insulin,Glucose:94.0;Cholesterol:183.7;HbA1c:6.5,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,708,20,F,E66,Amlodipine,Glucose:94.0;Cholesterol:167.2;HbA1c:6.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,709,48,F,I10-I15,Metformin;None;Insulin,Glucose:88.6;Cholesterol:174.6;HbA1c:6.4,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,710,57,M,E10-E14,ACE Inhibitor,Glucose:161.4;Cholesterol:214.2;HbA1c:6.3,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,711,53,F,I10-I15;I20-I25,Metformin,Glucose:123.3;Cholesterol:147.1;HbA1c:5.9,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,712,41,F,E10-E14;E66,Atorvastatin;Amlodipine;ACE Inhibitor,Glucose:109.3;Cholesterol:202.9;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,713,23,M,I10-I15,None;Metformin;Amlodipine,Glucose:119.5;Cholesterol:177.5;HbA1c:5.9,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,714,83,F,E66,Insulin,Glucose:79.3;Cholesterol:177.2;HbA1c:7.2,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,715,21,F,I10-I15,Amlodipine,Glucose:118.0;Cholesterol:189.2;HbA1c:7.7,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,716,23,F,E10-E14;I10-I15,ACE Inhibitor;Amlodipine;Insulin,Glucose:76.0;Cholesterol:145.6;HbA1c:7.5,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,717,68,F,E10-E14,ACE Inhibitor;Atorvastatin;Amlodipine,Glucose:111.1;Cholesterol:180.3;HbA1c:4.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,718,79,M,I10-I15,Metformin,Glucose:121.2;Cholesterol:211.8;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,719,74,F,I10-I15,Amlodipine;Beta-blocker,Glucose:106.5;Cholesterol:176.6;HbA1c:6.1,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,720,83,F,E10-E14;E66,Insulin,Glucose:82.0;Cholesterol:240.1;HbA1c:6.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,721,25,M,I10-I15,ACE Inhibitor;Metformin,Glucose:100.9;Cholesterol:181.3;HbA1c:5.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,722,43,F,I10-I15,Atorvastatin,Glucose:90.5;Cholesterol:172.3;HbA1c:5.5,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,723,68,M,I20-I25,ACE Inhibitor;None;Metformin,Glucose:150.3;Cholesterol:227.9;HbA1c:6.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,724,62,F,E10-E14;E66,Atorvastatin;Amlodipine;ACE Inhibitor,Glucose:119.2;Cholesterol:145.3;HbA1c:5.8,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,725,61,M,E66,Beta-blocker;None,Glucose:134.3;Cholesterol:139.7;HbA1c:6.4,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,726,22,M,E66,Atorvastatin;ACE Inhibitor;None,Glucose:168.1;Cholesterol:232.5;HbA1c:7.2,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,727,43,M,I10-I15,None;Insulin,Glucose:115.5;Cholesterol:228.7;HbA1c:5.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,728,36,M,I10-I15,ACE Inhibitor,Glucose:129.9;Cholesterol:216.2;HbA1c:6.1,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,729,37,F,I10-I15,Metformin;Beta-blocker;Amlodipine,Glucose:142.9;Cholesterol:168.4;HbA1c:5.6,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,730,29,M,I10-I15,Amlodipine;Metformin;Insulin,Glucose:112.4;Cholesterol:148.8;HbA1c:6.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,731,64,F,E10-E14;E66,Beta-blocker,Glucose:67.0;Cholesterol:231.9;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,732,18,M,E10-E14,Atorvastatin,Glucose:97.0;Cholesterol:156.6;HbA1c:5.6,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,733,31,M,E10-E14;I20-I25,ACE Inhibitor;Amlodipine,Glucose:127.2;Cholesterol:211.9;HbA1c:5.1,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,734,81,M,E10-E14;I10-I15,Insulin,Glucose:88.8;Cholesterol:216.3;HbA1c:5.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,735,55,F,E10-E14;I10-I15,Beta-blocker;Metformin;Atorvastatin,Glucose:111.5;Cholesterol:195.0;HbA1c:6.1,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,736,54,M,I20-I25,Insulin;Amlodipine;Atorvastatin,Glucose:131.5;Cholesterol:139.5;HbA1c:3.9,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,737,28,F,E10-E14;I10-I15,Metformin,Glucose:95.8;Cholesterol:262.1;HbA1c:7.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,738,20,F,E66,Insulin,Glucose:155.8;Cholesterol:182.3;HbA1c:4.0,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,739,50,F,E10-E14;I10-I15;I20-I25,Insulin;Atorvastatin;None,Glucose:51.4;Cholesterol:165.4;HbA1c:5.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,740,23,F,I10-I15,Amlodipine,Glucose:142.5;Cholesterol:224.7;HbA1c:6.0,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,741,67,F,E10-E14;I10-I15;I20-I25;E66,Insulin;Beta-blocker,Glucose:87.8;Cholesterol:151.6;HbA1c:6.1,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,742,27,F,E10-E14,Atorvastatin,Glucose:127.4;Cholesterol:205.7;HbA1c:4.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,743,22,F,E66,Beta-blocker,Glucose:126.3;Cholesterol:207.0;HbA1c:4.7,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,744,40,F,I20-I25;E66,Metformin;Atorvastatin;Beta-blocker,Glucose:90.4;Cholesterol:217.5;HbA1c:5.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,745,27,F,I10-I15,Metformin,Glucose:149.7;Cholesterol:210.0;HbA1c:5.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,746,61,M,I10-I15;E66,Insulin;Metformin,Glucose:109.7;Cholesterol:192.5;HbA1c:5.1,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,747,19,M,E10-E14,Metformin;None;Amlodipine,Glucose:87.2;Cholesterol:218.1;HbA1c:6.6,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,748,30,M,I10-I15;E66,Metformin;Insulin;Atorvastatin,Glucose:125.1;Cholesterol:250.6;HbA1c:5.3,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,749,57,M,E10-E14,Beta-blocker;Metformin,Glucose:151.9;Cholesterol:154.0;HbA1c:4.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,750,19,M,I20-I25,None;Beta-blocker;ACE Inhibitor,Glucose:66.0;Cholesterol:172.2;HbA1c:5.3,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,751,82,F,E66,Metformin;Amlodipine;None,Glucose:123.1;Cholesterol:199.8;HbA1c:4.6,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,752,80,F,I10-I15,None;Beta-blocker;Atorvastatin,Glucose:100.2;Cholesterol:175.1;HbA1c:4.0,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,753,34,F,I20-I25,Insulin;Atorvastatin,Glucose:85.5;Cholesterol:159.2;HbA1c:7.2,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,754,26,F,I10-I15,Metformin,Glucose:114.8;Cholesterol:216.5;HbA1c:4.3,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,755,32,F,E66,Insulin,Glucose:139.9;Cholesterol:242.0;HbA1c:3.8,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,756,41,F,I10-I15,Insulin,Glucose:92.4;Cholesterol:209.8;HbA1c:6.4,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,757,55,F,E66,Insulin,Glucose:93.0;Cholesterol:177.8;HbA1c:5.2,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,758,52,M,I10-I15;I20-I25;E66,Metformin;Insulin,Glucose:112.8;Cholesterol:237.9;HbA1c:5.0,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,759,66,M,I10-I15,Atorvastatin;Amlodipine;None,Glucose:135.0;Cholesterol:158.7;HbA1c:5.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,760,79,M,E10-E14;I10-I15,ACE Inhibitor,Glucose:130.5;Cholesterol:226.9;HbA1c:6.7,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,761,77,M,I10-I15,Amlodipine,Glucose:77.1;Cholesterol:171.4;HbA1c:6.6,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,762,67,F,E10-E14,ACE Inhibitor,Glucose:111.0;Cholesterol:147.1;HbA1c:6.3,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,763,26,F,E10-E14;I20-I25,Beta-blocker;Atorvastatin,Glucose:92.1;Cholesterol:261.8;HbA1c:7.3,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,764,51,F,I10-I15,Metformin,Glucose:125.1;Cholesterol:244.4;HbA1c:5.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,765,52,M,I10-I15,ACE Inhibitor;None;Metformin,Glucose:129.1;Cholesterol:249.1;HbA1c:6.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,766,18,F,I10-I15,None;Amlodipine;Insulin,Glucose:103.6;Cholesterol:121.8;HbA1c:5.7,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,767,57,F,E66,Insulin,Glucose:130.6;Cholesterol:227.8;HbA1c:6.3,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,768,81,F,I10-I15;E66,None;Beta-blocker;Atorvastatin,Glucose:96.5;Cholesterol:110.9;HbA1c:5.3,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,769,39,M,I20-I25,None;Amlodipine,Glucose:102.4;Cholesterol:177.5;HbA1c:6.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,770,77,F,E10-E14,Amlodipine;None,Glucose:159.6;Cholesterol:194.9;HbA1c:5.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,771,81,M,I20-I25;E66,Amlodipine,Glucose:103.5;Cholesterol:195.0;HbA1c:5.0,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,772,28,M,I10-I15,Metformin;Amlodipine;None,Glucose:113.0;Cholesterol:208.0;HbA1c:6.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,773,31,M,I10-I15,ACE Inhibitor,Glucose:121.4;Cholesterol:207.3;HbA1c:4.0,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,774,77,M,I10-I15;E66,Atorvastatin;Metformin;None,Glucose:125.9;Cholesterol:163.2;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,775,47,F,E10-E14;I10-I15,Insulin,Glucose:82.4;Cholesterol:207.3;HbA1c:5.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,776,52,M,I20-I25;E66,Insulin,Glucose:68.0;Cholesterol:209.1;HbA1c:4.4,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,777,54,M,E10-E14,Metformin;Atorvastatin,Glucose:113.5;Cholesterol:199.5;HbA1c:6.7,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,778,22,F,I20-I25,Beta-blocker;Atorvastatin;Insulin,Glucose:154.5;Cholesterol:135.4;HbA1c:5.7,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,779,43,F,E66,Atorvastatin;Metformin,Glucose:103.1;Cholesterol:207.3;HbA1c:6.0,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,780,79,M,E10-E14,Insulin,Glucose:101.2;Cholesterol:172.4;HbA1c:4.7,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,781,21,F,I10-I15,Amlodipine;Atorvastatin,Glucose:134.7;Cholesterol:208.4;HbA1c:6.7,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,782,59,M,I10-I15;E66,Metformin;ACE Inhibitor;None,Glucose:102.2;Cholesterol:163.7;HbA1c:4.7,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,783,35,M,E10-E14;E66,Insulin,Glucose:119.0;Cholesterol:148.4;HbA1c:7.6,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,784,57,M,E10-E14,Beta-blocker;Insulin;Metformin,Glucose:77.3;Cholesterol:200.9;HbA1c:7.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,785,56,M,E10-E14,Atorvastatin;Amlodipine;Insulin,Glucose:125.0;Cholesterol:197.0;HbA1c:4.8,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,786,31,F,I10-I15,ACE Inhibitor,Glucose:75.5;Cholesterol:220.8;HbA1c:7.3,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,787,49,M,I10-I15,ACE Inhibitor;Metformin,Glucose:99.0;Cholesterol:144.4;HbA1c:3.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,788,68,F,E66,Insulin,Glucose:85.5;Cholesterol:185.5;HbA1c:7.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,789,55,F,E66,Insulin,Glucose:126.8;Cholesterol:202.2;HbA1c:5.4,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,790,40,F,I10-I15,None;Beta-blocker,Glucose:95.4;Cholesterol:246.2;HbA1c:6.0,5,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,791,80,F,I10-I15,None;Beta-blocker,Glucose:57.4;Cholesterol:163.1;HbA1c:4.9,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,792,32,M,E10-E14,None;Metformin;Amlodipine,Glucose:96.3;Cholesterol:212.5;HbA1c:5.7,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,793,42,F,E66,None;ACE Inhibitor;Atorvastatin,Glucose:108.1;Cholesterol:242.5;HbA1c:5.1,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,794,34,M,I10-I15;E66,Insulin;Metformin,Glucose:156.6;Cholesterol:163.1;HbA1c:5.9,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,795,83,F,I10-I15,Atorvastatin;Insulin;Amlodipine,Glucose:103.0;Cholesterol:194.9;HbA1c:6.2,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,796,70,F,I10-I15,Insulin,Glucose:120.8;Cholesterol:159.9;HbA1c:4.7,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,797,68,M,I20-I25,Atorvastatin,Glucose:172.6;Cholesterol:170.6;HbA1c:6.5,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,798,56,M,I10-I15,ACE Inhibitor;Amlodipine;Beta-blocker,Glucose:69.8;Cholesterol:178.8;HbA1c:5.7,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,799,68,M,I20-I25,Atorvastatin;ACE Inhibitor,Glucose:121.8;Cholesterol:81.1;HbA1c:6.0,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,800,23,F,I20-I25,Metformin;Beta-blocker,Glucose:81.3;Cholesterol:203.0;HbA1c:4.8,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,801,84,F,I10-I15,Atorvastatin;Amlodipine;Metformin,Glucose:88.6;Cholesterol:179.1;HbA1c:4.7,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,802,24,M,I10-I15;E66,Atorvastatin;Metformin,Glucose:98.1;Cholesterol:142.3;HbA1c:4.0,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,803,68,M,I10-I15,Amlodipine,Glucose:135.4;Cholesterol:138.2;HbA1c:5.6,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,804,59,M,I10-I15;I20-I25,ACE Inhibitor,Glucose:128.8;Cholesterol:165.4;HbA1c:5.0,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,805,81,M,E66,Beta-blocker;Insulin;ACE Inhibitor,Glucose:115.7;Cholesterol:234.7;HbA1c:4.6,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,806,32,F,I20-I25,Metformin;ACE Inhibitor;Amlodipine,Glucose:106.2;Cholesterol:120.7;HbA1c:5.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,807,46,M,I10-I15,Atorvastatin;None;Metformin,Glucose:110.9;Cholesterol:155.8;HbA1c:5.3,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,808,50,M,I20-I25,Insulin,Glucose:74.8;Cholesterol:193.1;HbA1c:6.9,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,809,44,M,I10-I15,Insulin;None,Glucose:82.6;Cholesterol:165.1;HbA1c:6.3,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,810,53,M,I10-I15,Atorvastatin,Glucose:140.3;Cholesterol:130.3;HbA1c:5.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,811,46,F,E10-E14,Insulin;Atorvastatin;None,Glucose:117.1;Cholesterol:185.9;HbA1c:3.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,812,55,M,E10-E14;I10-I15,Metformin;Insulin,Glucose:122.5;Cholesterol:250.8;HbA1c:5.9,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,813,74,F,I10-I15;I20-I25;E66,Insulin;Beta-blocker;Amlodipine,Glucose:84.2;Cholesterol:169.5;HbA1c:7.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,814,44,M,I10-I15,Amlodipine,Glucose:132.7;Cholesterol:215.6;HbA1c:6.2,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,815,72,M,I10-I15,Amlodipine;None,Glucose:93.5;Cholesterol:182.0;HbA1c:5.7,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,816,50,F,I20-I25,Amlodipine,Glucose:123.7;Cholesterol:250.4;HbA1c:6.9,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,817,83,M,E10-E14;I10-I15,Amlodipine;ACE Inhibitor,Glucose:74.5;Cholesterol:199.0;HbA1c:6.5,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,818,27,F,E66,Beta-blocker;Metformin,Glucose:125.5;Cholesterol:164.8;HbA1c:8.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,819,22,F,I10-I15,Amlodipine;None,Glucose:78.1;Cholesterol:146.7;HbA1c:6.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,820,55,M,E10-E14,Amlodipine,Glucose:162.9;Cholesterol:156.6;HbA1c:5.5,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,821,30,F,I10-I15,Atorvastatin,Glucose:136.9;Cholesterol:189.3;HbA1c:5.5,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,822,48,F,I10-I15,None;Amlodipine;Atorvastatin,Glucose:124.1;Cholesterol:200.9;HbA1c:6.8,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,823,64,F,E10-E14;I10-I15,Amlodipine;Atorvastatin,Glucose:142.3;Cholesterol:202.3;HbA1c:6.1,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,824,69,F,I10-I15;I20-I25;E66,Amlodipine,Glucose:115.4;Cholesterol:209.6;HbA1c:5.9,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,825,73,F,E66,Metformin,Glucose:110.0;Cholesterol:237.9;HbA1c:7.3,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,826,32,F,I10-I15,Insulin,Glucose:72.3;Cholesterol:190.4;HbA1c:5.1,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,827,46,F,I10-I15;I20-I25,Metformin;Amlodipine;None,Glucose:102.2;Cholesterol:206.1;HbA1c:6.5,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,828,25,F,E10-E14;I10-I15;I20-I25;E66,None;Atorvastatin;ACE Inhibitor,Glucose:107.2;Cholesterol:113.5;HbA1c:4.8,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,829,22,M,I10-I15,Metformin;Atorvastatin;None,Glucose:132.4;Cholesterol:80.4;HbA1c:7.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,830,46,M,I10-I15,Atorvastatin;ACE Inhibitor;None,Glucose:123.0;Cholesterol:242.6;HbA1c:5.6,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,831,64,F,E10-E14,Atorvastatin;None,Glucose:58.5;Cholesterol:207.2;HbA1c:7.1,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,832,62,M,E66,Insulin;Atorvastatin,Glucose:133.1;Cholesterol:163.5;HbA1c:5.9,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,833,19,F,E66,Metformin;Atorvastatin,Glucose:96.7;Cholesterol:157.2;HbA1c:6.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,834,44,F,I10-I15;I20-I25,Metformin;ACE Inhibitor,Glucose:80.1;Cholesterol:154.2;HbA1c:4.7,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,835,53,M,E10-E14,Atorvastatin;ACE Inhibitor;Insulin,Glucose:72.7;Cholesterol:195.9;HbA1c:7.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,836,53,F,E10-E14;I10-I15;E66,Metformin;Amlodipine,Glucose:105.4;Cholesterol:129.8;HbA1c:6.6,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,837,43,F,E10-E14;I10-I15,None;Metformin;Atorvastatin,Glucose:152.1;Cholesterol:164.2;HbA1c:5.3,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,838,60,F,I10-I15,ACE Inhibitor,Glucose:122.9;Cholesterol:254.9;HbA1c:5.3,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,839,44,F,I10-I15;I20-I25,Beta-blocker;Metformin;None,Glucose:76.7;Cholesterol:215.3;HbA1c:6.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,840,37,M,E10-E14;I10-I15,ACE Inhibitor;Insulin;Amlodipine,Glucose:110.2;Cholesterol:167.7;HbA1c:6.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,841,28,F,E10-E14;I20-I25,Insulin,Glucose:123.2;Cholesterol:159.3;HbA1c:5.8,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,842,55,F,E10-E14;I10-I15;E66,Amlodipine,Glucose:76.2;Cholesterol:217.4;HbA1c:5.5,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,843,23,F,I20-I25,None;Metformin,Glucose:99.1;Cholesterol:188.7;HbA1c:5.8,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,844,40,M,E10-E14;I20-I25,Beta-blocker,Glucose:132.4;Cholesterol:213.6;HbA1c:5.6,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,845,64,F,E10-E14,None;Metformin,Glucose:129.1;Cholesterol:206.0;HbA1c:5.4,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,846,63,M,E66,Atorvastatin;Insulin,Glucose:106.9;Cholesterol:184.1;HbA1c:6.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,847,29,M,E10-E14;I10-I15,Insulin,Glucose:100.8;Cholesterol:174.4;HbA1c:7.8,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,848,30,F,I10-I15;E66,None;Amlodipine;Beta-blocker,Glucose:133.5;Cholesterol:159.6;HbA1c:6.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,849,79,F,I10-I15,Atorvastatin;Metformin;None,Glucose:113.0;Cholesterol:205.7;HbA1c:5.9,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,850,77,M,I10-I15;E66,ACE Inhibitor;Insulin;Amlodipine,Glucose:139.7;Cholesterol:203.8;HbA1c:5.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,851,60,F,I20-I25,Atorvastatin;None;ACE Inhibitor,Glucose:136.1;Cholesterol:199.3;HbA1c:5.9,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,852,22,M,E66,None;Atorvastatin;Metformin,Glucose:117.9;Cholesterol:186.3;HbA1c:5.8,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,853,54,M,E10-E14;I10-I15;E66,Metformin;Insulin,Glucose:95.3;Cholesterol:160.0;HbA1c:4.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,854,48,F,I10-I15,Atorvastatin;Metformin,Glucose:75.2;Cholesterol:154.8;HbA1c:5.6,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,855,26,F,I10-I15;E66,None;Amlodipine,Glucose:112.6;Cholesterol:179.1;HbA1c:3.4,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,856,68,M,E10-E14,ACE Inhibitor;Atorvastatin,Glucose:149.4;Cholesterol:233.5;HbA1c:6.2,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,857,46,M,I20-I25,ACE Inhibitor,Glucose:157.7;Cholesterol:150.9;HbA1c:7.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,858,57,M,E66,Atorvastatin;Amlodipine;None,Glucose:85.9;Cholesterol:199.5;HbA1c:4.5,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,859,58,M,E66,Beta-blocker,Glucose:110.4;Cholesterol:205.4;HbA1c:5.6,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,860,28,F,E10-E14;I10-I15,None;ACE Inhibitor;Insulin,Glucose:127.8;Cholesterol:194.0;HbA1c:5.3,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,861,40,F,I10-I15,ACE Inhibitor,Glucose:95.8;Cholesterol:222.4;HbA1c:5.1,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,862,18,F,E10-E14;E66,Amlodipine;ACE Inhibitor,Glucose:132.9;Cholesterol:238.9;HbA1c:4.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,863,63,F,E10-E14,Amlodipine;Metformin,Glucose:138.3;Cholesterol:272.4;HbA1c:6.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,864,38,F,E10-E14;E66,Atorvastatin,Glucose:125.0;Cholesterol:231.5;HbA1c:5.5,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,865,53,M,I10-I15;E66,Amlodipine;None,Glucose:114.6;Cholesterol:137.4;HbA1c:5.9,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,866,71,F,E10-E14;I10-I15;I20-I25,Metformin,Glucose:122.5;Cholesterol:210.6;HbA1c:6.9,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,867,74,F,E10-E14;I20-I25,Metformin,Glucose:90.6;Cholesterol:168.7;HbA1c:7.7,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,868,18,F,I10-I15;E66,Beta-blocker;None;Insulin,Glucose:106.2;Cholesterol:198.0;HbA1c:5.7,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,869,80,F,I10-I15,Insulin;None,Glucose:89.5;Cholesterol:254.9;HbA1c:5.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,870,71,F,I10-I15;I20-I25,Insulin;Metformin;Amlodipine,Glucose:81.8;Cholesterol:172.0;HbA1c:3.8,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,871,72,M,I10-I15,Amlodipine;ACE Inhibitor,Glucose:93.7;Cholesterol:151.3;HbA1c:6.4,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,872,57,M,I10-I15,Beta-blocker;Metformin;Insulin,Glucose:93.2;Cholesterol:225.5;HbA1c:7.2,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,873,32,M,E10-E14;I10-I15;E66,ACE Inhibitor;None,Glucose:129.5;Cholesterol:181.4;HbA1c:5.9,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,874,38,F,I10-I15,Metformin;Amlodipine,Glucose:71.9;Cholesterol:184.6;HbA1c:4.9,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,875,64,M,I10-I15,ACE Inhibitor;Beta-blocker;Insulin,Glucose:127.4;Cholesterol:292.9;HbA1c:6.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,876,70,M,I10-I15,Metformin;Beta-blocker;ACE Inhibitor,Glucose:60.2;Cholesterol:175.6;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,877,26,F,I10-I15,ACE Inhibitor;Metformin;Amlodipine,Glucose:112.2;Cholesterol:160.8;HbA1c:6.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,878,69,F,I10-I15,Beta-blocker;None,Glucose:78.9;Cholesterol:152.2;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,879,74,F,E66,Atorvastatin;None;Amlodipine,Glucose:84.6;Cholesterol:211.5;HbA1c:4.4,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,880,43,M,I10-I15,Beta-blocker;Amlodipine;Atorvastatin,Glucose:154.1;Cholesterol:159.0;HbA1c:5.6,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,881,58,M,I20-I25,ACE Inhibitor;None;Metformin,Glucose:118.3;Cholesterol:167.4;HbA1c:5.9,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,882,52,F,I10-I15,None;Metformin,Glucose:124.4;Cholesterol:228.4;HbA1c:6.6,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,883,80,F,I10-I15,Insulin,Glucose:105.7;Cholesterol:184.1;HbA1c:8.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,884,42,M,I10-I15,Atorvastatin;None,Glucose:133.7;Cholesterol:153.1;HbA1c:5.9,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,885,55,M,I10-I15,Atorvastatin,Glucose:101.6;Cholesterol:184.6;HbA1c:4.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,886,19,F,E10-E14;I10-I15;I20-I25;E66,Atorvastatin;ACE Inhibitor,Glucose:99.7;Cholesterol:262.5;HbA1c:6.4,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,887,24,F,I10-I15,Atorvastatin;Beta-blocker,Glucose:47.7;Cholesterol:238.7;HbA1c:6.9,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,888,51,M,I10-I15,ACE Inhibitor;None;Atorvastatin,Glucose:101.0;Cholesterol:218.7;HbA1c:4.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,889,34,F,I10-I15,ACE Inhibitor,Glucose:98.2;Cholesterol:249.9;HbA1c:5.5,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,890,60,M,I20-I25,Insulin,Glucose:63.3;Cholesterol:187.5;HbA1c:5.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,891,76,M,E10-E14;I10-I15,Beta-blocker;None,Glucose:140.0;Cholesterol:190.6;HbA1c:5.4,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,892,68,M,I10-I15,Insulin,Glucose:136.1;Cholesterol:194.8;HbA1c:5.0,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,893,71,M,I10-I15,Insulin,Glucose:138.9;Cholesterol:197.7;HbA1c:5.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,894,41,F,E10-E14;I20-I25,None;Insulin,Glucose:114.4;Cholesterol:147.2;HbA1c:5.3,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,895,42,F,I20-I25;E66,None;Insulin;Amlodipine,Glucose:110.1;Cholesterol:182.2;HbA1c:7.1,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,896,69,M,E10-E14;I10-I15,Insulin;Amlodipine,Glucose:115.4;Cholesterol:224.2;HbA1c:5.8,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,897,50,M,I10-I15,Atorvastatin,Glucose:136.4;Cholesterol:205.9;HbA1c:5.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,898,66,M,E66,Amlodipine;Beta-blocker,Glucose:109.7;Cholesterol:151.8;HbA1c:6.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,899,46,M,I10-I15,Beta-blocker,Glucose:109.0;Cholesterol:169.9;HbA1c:6.9,3,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,900,80,M,I20-I25,Insulin,Glucose:78.7;Cholesterol:173.1;HbA1c:6.8,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,901,39,F,I10-I15,Atorvastatin;Beta-blocker;ACE Inhibitor,Glucose:117.9;Cholesterol:188.1;HbA1c:6.1,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,902,43,F,I20-I25,ACE Inhibitor,Glucose:114.5;Cholesterol:129.3;HbA1c:5.5,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,903,45,F,I10-I15,ACE Inhibitor;Insulin,Glucose:150.4;Cholesterol:163.6;HbA1c:5.5,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,904,66,F,I20-I25,Metformin;Atorvastatin;ACE Inhibitor,Glucose:96.5;Cholesterol:186.5;HbA1c:5.2,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,905,66,M,E10-E14;I10-I15,Metformin;None;Atorvastatin,Glucose:122.2;Cholesterol:197.9;HbA1c:6.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,906,37,M,I10-I15,Beta-blocker;Insulin;Metformin,Glucose:83.7;Cholesterol:176.4;HbA1c:5.6,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,907,80,M,I10-I15,Amlodipine;Insulin;Beta-blocker,Glucose:121.4;Cholesterol:158.3;HbA1c:6.7,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,908,78,M,I10-I15,ACE Inhibitor,Glucose:139.7;Cholesterol:150.4;HbA1c:5.3,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,909,66,M,I10-I15,Insulin;Atorvastatin,Glucose:96.7;Cholesterol:295.3;HbA1c:5.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,910,18,F,I10-I15,Beta-blocker;Insulin;ACE Inhibitor,Glucose:151.9;Cholesterol:139.3;HbA1c:4.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,911,30,M,I10-I15,Beta-blocker,Glucose:92.8;Cholesterol:156.2;HbA1c:5.5,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,912,68,F,E10-E14;I10-I15;E66,Beta-blocker;Atorvastatin;Insulin,Glucose:92.3;Cholesterol:157.2;HbA1c:7.0,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,913,73,F,E10-E14;E66,Metformin,Glucose:140.6;Cholesterol:228.0;HbA1c:6.3,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,914,79,F,I10-I15;I20-I25;E66,Atorvastatin,Glucose:112.3;Cholesterol:170.1;HbA1c:4.8,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,915,49,F,I10-I15;I20-I25,Metformin;Insulin;Amlodipine,Glucose:119.1;Cholesterol:143.1;HbA1c:4.8,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,916,47,M,I10-I15;E66,Insulin;Amlodipine,Glucose:138.8;Cholesterol:266.0;HbA1c:6.2,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,917,46,F,I10-I15,Insulin;Atorvastatin;ACE Inhibitor,Glucose:137.7;Cholesterol:180.2;HbA1c:4.5,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,918,66,F,I10-I15;E66,Atorvastatin;Metformin;None,Glucose:125.3;Cholesterol:212.8;HbA1c:5.9,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,919,62,F,I10-I15,None;Amlodipine,Glucose:103.9;Cholesterol:228.5;HbA1c:4.8,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,920,47,M,I10-I15,Metformin,Glucose:90.7;Cholesterol:149.7;HbA1c:5.9,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,921,33,M,I10-I15,Beta-blocker;None,Glucose:82.8;Cholesterol:162.6;HbA1c:5.1,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,922,57,M,I20-I25,Atorvastatin,Glucose:103.5;Cholesterol:130.5;HbA1c:5.9,10,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,923,36,F,E66,None;Beta-blocker,Glucose:141.2;Cholesterol:195.4;HbA1c:7.3,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,924,35,F,I10-I15,Insulin;Amlodipine;ACE Inhibitor,Glucose:143.3;Cholesterol:221.1;HbA1c:5.9,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,925,18,M,E10-E14;I10-I15,ACE Inhibitor;Atorvastatin,Glucose:110.6;Cholesterol:220.6;HbA1c:5.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,926,64,F,I10-I15,Amlodipine,Glucose:62.9;Cholesterol:209.7;HbA1c:4.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,927,83,M,I10-I15,Atorvastatin,Glucose:85.9;Cholesterol:190.0;HbA1c:5.7,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,928,55,M,I10-I15,Beta-blocker;Amlodipine;Metformin,Glucose:74.7;Cholesterol:196.6;HbA1c:6.8,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,929,68,F,I10-I15;E66,None;Insulin;Beta-blocker,Glucose:81.8;Cholesterol:240.9;HbA1c:4.2,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,930,80,F,I10-I15,None;Beta-blocker;ACE Inhibitor,Glucose:162.9;Cholesterol:173.5;HbA1c:5.9,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,931,21,F,E10-E14;E66,Atorvastatin;Amlodipine;None,Glucose:62.7;Cholesterol:187.5;HbA1c:6.0,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,932,18,F,I10-I15,Metformin;None;Atorvastatin,Glucose:107.8;Cholesterol:167.5;HbA1c:4.9,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,933,25,M,E10-E14;E66,Insulin,Glucose:138.3;Cholesterol:191.2;HbA1c:7.3,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,934,46,M,E10-E14,Metformin,Glucose:96.8;Cholesterol:172.6;HbA1c:6.6,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,935,72,M,E10-E14;I10-I15,Atorvastatin,Glucose:69.4;Cholesterol:141.5;HbA1c:6.9,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,936,20,M,I10-I15,Metformin,Glucose:80.7;Cholesterol:117.2;HbA1c:7.7,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,937,49,M,I20-I25,Insulin;ACE Inhibitor;Amlodipine,Glucose:75.2;Cholesterol:197.4;HbA1c:5.9,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,938,27,F,I10-I15,Atorvastatin;Beta-blocker,Glucose:39.7;Cholesterol:179.3;HbA1c:6.2,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,939,51,M,I10-I15,ACE Inhibitor;Insulin;Metformin,Glucose:118.9;Cholesterol:226.1;HbA1c:5.4,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,940,72,M,I10-I15,None;Insulin,Glucose:127.8;Cholesterol:162.4;HbA1c:4.4,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,941,49,M,I10-I15,Metformin;Amlodipine,Glucose:77.6;Cholesterol:131.5;HbA1c:6.8,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,942,67,F,I10-I15,Insulin,Glucose:72.1;Cholesterol:201.0;HbA1c:5.5,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,943,24,F,I10-I15,Amlodipine;Metformin;ACE Inhibitor,Glucose:107.4;Cholesterol:244.5;HbA1c:5.4,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,944,25,F,I10-I15;E66,Metformin;None,Glucose:125.3;Cholesterol:191.5;HbA1c:5.6,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,945,82,F,I10-I15,None;ACE Inhibitor,Glucose:167.5;Cholesterol:132.3;HbA1c:7.1,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,946,74,M,E66,Beta-blocker;Atorvastatin;Insulin,Glucose:126.4;Cholesterol:170.8;HbA1c:7.4,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,947,84,M,E10-E14;I20-I25,Atorvastatin;None,Glucose:63.8;Cholesterol:169.1;HbA1c:4.6,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,948,76,F,I10-I15,ACE Inhibitor;Amlodipine,Glucose:120.3;Cholesterol:145.5;HbA1c:6.2,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,949,71,F,E10-E14,ACE Inhibitor;None,Glucose:105.3;Cholesterol:170.8;HbA1c:6.2,9,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,950,84,M,E66,Beta-blocker,Glucose:103.3;Cholesterol:146.5;HbA1c:8.6,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,951,68,M,I20-I25,ACE Inhibitor,Glucose:97.8;Cholesterol:101.3;HbA1c:5.0,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,952,25,F,I10-I15,ACE Inhibitor;Insulin,Glucose:78.3;Cholesterol:223.0;HbA1c:6.1,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,953,51,F,I10-I15,Beta-blocker;Amlodipine,Glucose:120.0;Cholesterol:175.2;HbA1c:5.5,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,954,52,F,I10-I15,Metformin;Beta-blocker,Glucose:100.7;Cholesterol:186.8;HbA1c:6.6,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,955,49,F,I10-I15,Atorvastatin,Glucose:118.4;Cholesterol:210.0;HbA1c:6.3,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,956,63,M,E10-E14,Insulin;Atorvastatin;Beta-blocker,Glucose:132.1;Cholesterol:201.5;HbA1c:6.2,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,957,33,M,E10-E14;E66,None;Amlodipine;Atorvastatin,Glucose:139.7;Cholesterol:163.4;HbA1c:4.9,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,958,54,M,I10-I15,Insulin,Glucose:80.4;Cholesterol:197.3;HbA1c:3.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,959,71,F,I10-I15;I20-I25;E66,Metformin;Beta-blocker,Glucose:121.6;Cholesterol:185.6;HbA1c:6.9,1,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,960,31,F,E10-E14;E66,Amlodipine,Glucose:93.2;Cholesterol:181.9;HbA1c:6.9,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,961,72,M,E10-E14;I10-I15,ACE Inhibitor,Glucose:144.6;Cholesterol:162.8;HbA1c:6.0,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,962,65,M,I20-I25,ACE Inhibitor;None,Glucose:117.4;Cholesterol:204.9;HbA1c:5.5,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,963,24,M,E66,Amlodipine,Glucose:142.0;Cholesterol:114.4;HbA1c:5.4,2,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,964,24,M,E10-E14;E66,Beta-blocker;Amlodipine,Glucose:121.2;Cholesterol:208.3;HbA1c:7.2,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,965,50,F,E10-E14;I10-I15;E66,None;Insulin;Metformin,Glucose:140.0;Cholesterol:178.6;HbA1c:7.1,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,966,40,M,E66,ACE Inhibitor;Insulin,Glucose:92.1;Cholesterol:227.2;HbA1c:7.6,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,967,36,M,I10-I15,Beta-blocker;ACE Inhibitor;None,Glucose:140.4;Cholesterol:194.2;HbA1c:5.5,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,968,36,M,I10-I15,None;Metformin;Insulin,Glucose:71.8;Cholesterol:202.4;HbA1c:4.7,6,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,969,53,M,I10-I15,Amlodipine,Glucose:90.2;Cholesterol:142.4;HbA1c:5.3,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,970,46,M,I10-I15,Insulin;Metformin,Glucose:109.3;Cholesterol:200.9;HbA1c:5.2,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,971,77,M,E10-E14;I20-I25,Insulin;ACE Inhibitor;Metformin,Glucose:136.7;Cholesterol:181.7;HbA1c:5.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,972,19,M,E10-E14;I10-I15,Beta-blocker;None,Glucose:115.7;Cholesterol:268.5;HbA1c:6.1,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,973,18,F,E10-E14;I20-I25;E66,ACE Inhibitor;None,Glucose:100.9;Cholesterol:128.9;HbA1c:5.6,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,974,64,F,I10-I15,Insulin;None,Glucose:115.9;Cholesterol:174.5;HbA1c:4.1,11,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,975,37,F,E10-E14;I10-I15,Insulin,Glucose:88.7;Cholesterol:248.2;HbA1c:7.2,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,976,28,F,E66,Beta-blocker;Metformin,Glucose:87.8;Cholesterol:216.9;HbA1c:4.6,6,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,977,19,M,I20-I25;E66,Amlodipine,Glucose:145.1;Cholesterol:199.8;HbA1c:6.7,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,978,84,F,I20-I25,Insulin;Beta-blocker,Glucose:67.1;Cholesterol:217.1;HbA1c:5.8,7,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,979,29,F,I10-I15,Insulin,Glucose:131.3;Cholesterol:226.6;HbA1c:5.9,1,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,980,37,M,E10-E14,ACE Inhibitor;Metformin,Glucose:95.0;Cholesterol:221.2;HbA1c:5.7,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,981,22,M,E10-E14,Amlodipine,Glucose:88.2;Cholesterol:153.2;HbA1c:4.3,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,982,54,F,I10-I15,Beta-blocker,Glucose:97.2;Cholesterol:234.1;HbA1c:6.0,9,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,983,55,F,I10-I15,Insulin,Glucose:96.8;Cholesterol:222.2;HbA1c:5.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,984,26,M,I10-I15,Insulin;Atorvastatin,Glucose:112.4;Cholesterol:182.8;HbA1c:6.6,8,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,985,70,F,I10-I15,Beta-blocker;ACE Inhibitor;Amlodipine,Glucose:70.6;Cholesterol:156.0;HbA1c:4.2,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,986,61,M,I10-I15;E66,Atorvastatin,Glucose:103.5;Cholesterol:238.5;HbA1c:5.3,11,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,987,41,M,E10-E14;E66,None;ACE Inhibitor,Glucose:97.2;Cholesterol:224.9;HbA1c:6.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,988,47,M,I10-I15,Metformin;None;Atorvastatin,Glucose:107.8;Cholesterol:217.4;HbA1c:4.7,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,989,76,M,I20-I25,ACE Inhibitor;Amlodipine;Insulin,Glucose:144.4;Cholesterol:275.9;HbA1c:6.3,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,990,31,F,I10-I15,Amlodipine;Metformin;Atorvastatin,Glucose:57.9;Cholesterol:167.7;HbA1c:6.4,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,991,26,M,E10-E14,Insulin,Glucose:99.5;Cholesterol:240.9;HbA1c:6.4,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,992,57,M,E10-E14;E66,Metformin,Glucose:92.3;Cholesterol:191.3;HbA1c:4.9,10,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,993,83,F,I10-I15,Metformin;Beta-blocker;Amlodipine,Glucose:105.4;Cholesterol:167.8;HbA1c:7.0,8,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,994,42,M,I10-I15,Amlodipine,Glucose:162.9;Cholesterol:132.8;HbA1c:3.9,4,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,995,39,F,I10-I15;I20-I25,ACE Inhibitor;Beta-blocker;Amlodipine,Glucose:103.9;Cholesterol:129.3;HbA1c:5.8,5,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,996,21,F,I10-I15,Amlodipine;Metformin;Atorvastatin,Glucose:128.7;Cholesterol:249.8;HbA1c:6.0,2,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,997,43,F,E10-E14;I10-I15,Beta-blocker;ACE Inhibitor,Glucose:105.2;Cholesterol:110.9;HbA1c:5.8,4,15.5,Young_Adult,0,0,0,0,0,1
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,998,75,M,E66,Beta-blocker;ACE Inhibitor;Atorvastatin,Glucose:111.8;Cholesterol:215.6;HbA1c:5.1,7,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,999,46,F,E66,ACE Inhibitor,Glucose:99.1;Cholesterol:130.9;HbA1c:3.5,3,15.5,Young_Adult,0,0,0,0,0,0
+00c10b58d5c431fe,32.5,Female,68.5,169.0,23.450000000000003,1000,54,F,I10-I15,Beta-blocker;Amlodipine,Glucose:82.3;Cholesterol:127.2;HbA1c:6.1,1,15.5,Young_Adult,0,0,0,0,0,0
